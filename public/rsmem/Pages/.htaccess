@@ -1,7 +1,0 @@
-AuthName "Member Area"
-AuthType Basic
-AuthUserFile /services/webpages/r/a/rainiersymphony.org/public/rsmem/.htpasswd
-<limit GET POST>
-require valid-user
-</limit>
-

@@ -1,6 +1,0 @@
-AuthType Basic
-AuthName "Restricted Area"
-AuthUserFile /services/webpages/r/a/rainiersymphony.org/etc/.htpasswd
-<Limit GET POST>
-require valid-user
-</Limit>

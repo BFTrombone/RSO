@@ -1,5 +1,0 @@
-# -FrontPage-
-
-IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
-
-AuthGroupFile /services/webpages/r/a/rainiersymphony.org/public/_vti_pvt/service.grp
