@@ -1,0 +1,7 @@
+AuthName "Member Area"
+AuthType Basic
+AuthUserFile /www/htdocs/domains/s7/01132/www.rainiersymphony.org/webdocs/rsmem/.htpasswd
+<limit GET POST>
+require valid-user
+</limit>
+

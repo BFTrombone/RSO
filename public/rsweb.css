@@ -1,0 +1,235 @@
+a:link {
+  color: #044CA5;
+  background: none;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #044CA5;
+  background: none;
+  text-decoration: underline;
+}
+
+A:hover {
+  color:#044CA5;
+  background: none;
+  text-decoration: none;
+}
+
+a:active {
+  color: #044CA5;
+  background: none;
+}
+
+.container {
+width: 730px;
+border: 1px solid gray;
+margin: 10px;
+margin-left: auto;
+margin-right: auto;
+padding: 10px;
+}
+
+div.outer { position: relative; }
+div.outer img { position: absolute; right: 0; bottom: 0; }
+
+.header {
+padding: 0px;
+margin-bottom: 0;
+background-color: #000000;
+}
+
+.content {
+padding: 5px;
+background-color: #FFFFFF;
+margin-top: 5px;
+margin-left: 205px;
+font-family: "Arial",sans-serif;
+font-size: 95%;
+text-indent: 0px;
+}
+
+.nav {
+float: left;
+width: 200px;
+padding: 0;
+margin-top: 5px;
+background-color: #EBEBEB;
+}
+
+.footer {
+clear: both;
+padding: 0px;
+margin-top: 0px;
+background-color: #EBEBEB;
+color: #DDEDFD;
+font-family: "Arial",sans-serif;
+font-size: 75%;
+}
+
+A.footerl:link {
+	COLOR: #DDEDFD; TEXT-DECORATION: underline
+}
+A.footerl:visited {
+	COLOR: #DDEDFD; TEXT-DECORATION: underline
+}
+A.footerl:hover {
+	COLOR: #DDEDFD; TEXT-DECORATION: none
+}
+A.footerl:active {
+	COLOR: #DDEDFD; TEXT-DECORATION: underline
+	}
+
+h2 { color: #DDEDFD; text-align: right; padding: 0; margin: 0; font-family: "Arial",sans-serif; }
+h3 { color: #DDEDFD; text-align: right; padding: 0; margin: 0; font-family: "Arial",sans-serif; }
+h4 { color: #000000; padding: 0; margin: 0; font-family: "Arial",sans-serif; text-indent: 0; }
+
+.concert_title {
+    color: #000000; 
+    padding: 0; 
+    margin: 0; 
+    font-family: "Arial",sans-serif; 
+    font-size: 120%; 
+    text-indent: 0;
+    font-style:oblique;
+    font-weight:bold;
+}
+.title { 
+    color: #0066CC; 
+    font-size: 120%; 
+    font-weight: bold; 
+    text-align: left; 
+    padding: 5px 0px 0px 0px; 
+    margin: 0; 
+    font-family: "Arial",sans-serif; 
+    text-indent: 0; 
+}
+.composition {
+    font-style:italic;
+}
+.square { background-color: #EBEBEB; width: 10px; }
+
+#supportUs {
+
+}
+#supportUs a {
+    border:solid 2px black;
+    border-radius:3px;
+    padding:10px 25px 10px 25px;
+    text-decoration:none;
+    font-weight:bold;
+    letter-spacing: 2px;
+    background-color:lightgoldenrodyellow;
+}
+#supportUs a:hover {
+    background-color:lightsteelblue;
+    color:black;
+}
+/************************************************************ 
+    BEGIN flyout menu styles 
+*************************************************************/
+#flyout {
+    float: left;
+    padding: 0;
+    margin: 3px 0 0 0;
+    list-style: none;
+    position: relative;
+    width: 200px;
+    background-color: #FFFFFF;
+    color: #A39F9F;
+    font-family: "Arial", sans-serif;
+    font-size: 75%;
+    font-weight:bold;
+    text-align: left;
+    letter-spacing: 3px;
+    line-height:22px;
+}
+
+    #flyout ul {
+        padding: 0;
+        margin: -1px 0px 0px 0px;
+        list-style: none;
+        width: 240px;
+        height: auto;
+        position: absolute;
+        left: -999px;
+        top: 0;
+        opacity: 0;
+        border-top:solid 1px #000;
+        border-right:solid 1px lightgray;
+        border-bottom:solid 1px lightgray;
+        box-shadow: 5px 5px 5px rgba(170,170,170,0.5);
+        /*-webkit-transition: width .5s ease-in;
+        -moz-transition: width .5s ease-in;
+        transition: width .5s ease-in;
+        -webkit-transition: left .5s ease-in-out;
+        -moz-transition: left .5s ease-in-out;
+        transition: left .5s ease-in-out;*/
+    }
+
+    #flyout table {
+        border-collapse: collapse;
+        width: 0;
+        height: 0;
+        margin: -1px -10px;
+    }
+
+    #flyout li {
+        float: left;
+        margin-bottom: 0px;
+        border-bottom:solid #000 1px;
+    }
+
+        #flyout li a {
+            display: block;
+            float: left;
+            width: 200px;
+            color: #A39F9F;
+            text-decoration: none;
+        }
+
+            #flyout li .fly {
+                background: url(./images/arrows.gif) no-repeat right center;
+            }
+            .fly {
+                background: url(./images/arrows.gif) no-repeat right center !important;
+            }
+
+        #flyout li:hover {
+            position: relative;
+        }
+
+        #flyout li a:hover {
+            position: relative;
+        }
+
+        #flyout li:hover > a {
+            background-color: #F4F4F4;
+            color: #044CA5;
+        }
+
+    #flyout ul li a {
+        background: #FFFFFF;
+        border: solid 1px #fafafa;
+        height: 20px;
+        width: 240px;
+        vertical-align: middle;
+    }
+
+        #flyout ul li a.fly {
+            background: #FFFFFF url(./images/arrows.gif) no-repeat right center;
+        }
+
+    #flyout :hover ul{
+        left: 195px;
+        opacity: 1;
+        width:240px;
+    }
+
+    #flyout ul li:hover > a {
+            background-color: #F4F4F4;
+            color: #044CA5;
+    }
+/************************************************************ 
+   END flyout menu styles 
+*************************************************************/
