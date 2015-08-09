@@ -1,0 +1,182 @@
+a:link {
+  color: #044CA5;
+  background: none;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #044CA5;
+  background: none;
+  text-decoration: underline;
+}
+
+A:hover {
+  color:#044CA5;
+  background: none;
+  text-decoration: none;
+}
+
+a:active {
+  color: #044CA5;
+  background: none;
+}
+
+.container {
+width: 730px;
+border: 1px solid gray;
+margin: 10px;
+margin-left: auto;
+margin-right: auto;
+padding: 10px;
+}
+
+div.outer { position: relative; }
+div.outer img { position: absolute; right: 0; bottom: 0; }
+
+.header {
+padding: 0px;
+margin-bottom: 0;
+background-color: #000000;
+}
+
+.content {
+padding: 5px;
+background-color: #FFFFFF;
+margin-top: 5px;
+margin-left: 205px;
+font-family: "Arial",sans-serif;
+font-size: 95%;
+text-indent: 0px;
+}
+
+.nav {
+float: left;
+width: 200px;
+padding: 0;
+margin-top: 5px;
+background-color: #EBEBEB;
+}
+
+.footer {
+clear: both;
+padding: 0px;
+margin-top: 0px;
+background-color: #EBEBEB;
+color: #DDEDFD;
+font-family: "Arial",sans-serif;
+font-size: 75%;
+}
+
+A.footerl:link {
+	COLOR: #DDEDFD; TEXT-DECORATION: underline
+}
+A.footerl:visited {
+	COLOR: #DDEDFD; TEXT-DECORATION: underline
+}
+A.footerl:hover {
+	COLOR: #DDEDFD; TEXT-DECORATION: none
+}
+A.footerl:active {
+	COLOR: #DDEDFD; TEXT-DECORATION: underline
+	}
+
+h2 { color: #DDEDFD; text-align: right; padding: 0; margin: 0; font-family: "Arial",sans-serif; }
+h3 { color: #DDEDFD; text-align: right; padding: 0; margin: 0; font-family: "Arial",sans-serif; }
+h4 { color: #000000; padding: 0; margin: 0; font-family: "Arial",sans-serif; text-indent: 0; }
+
+.title { color: #0066CC; font-size: 120%; font-weight: bold; text-align: left; padding: 0; margin: 0; font-family: "Arial",sans-serif; text-indent: 0; }
+
+.square { background-color: #EBEBEB; width: 10px; }
+
+.sectionLinks{
+margin-right: 0;
+padding: 0px;
+font-family: "Arial", sans-serif;
+text-align: left;
+letter-spacing: 3px;
+}
+
+.sectionLinks a:link, .sectionLinks a:visited {
+display: block;
+text-decoration: none;
+background-color: #FFFFFF;
+border-bottom: 1px solid #000000;
+font-weight: bold;
+padding: 3px 4px 3px 4px;
+color: #A39F9F;
+font-size: 75%;
+}
+
+.sectionLinks a:hover{
+background-color: #F4F4F4;
+font-weight: bold;
+text-decoration: none;
+color: #044CA5;
+font-size: 75%;
+text-align: left;
+}
+
+.sectionLinks a {position: relative;}
+
+table {
+    border-collapse: collapse;
+    width:100%;
+}
+table, th, td {
+   border: 1px solid darkgray;
+}
+.columnheader {
+    vertical-align:top; 
+    background-color:#99CCFF;
+    font-size:smaller;
+}
+.rehearsal {
+    vertical-align:top;
+    background-color:#CCFFFF;
+    font-size:smaller;
+}
+.dress {
+    vertical-align:top;
+    background-color:#CCFFFF;
+    font-size:smaller;
+    font-weight:bold;
+}
+.concert {
+    vertical-align:top; 
+    background-color:#99CCFF;
+    font-size:smaller;
+    font-weight:bold;
+}
+.special {
+    vertical-align:top; 
+    background-color:#FFCC99;
+    font-size:smaller;
+}
+.special_concert {
+    font-weight:bold;
+}
+.info {
+    vertical-align:top; 
+    font-size:smaller;
+}
+.info td {
+    width: 50%;
+}
+.showHideButton {
+    margin-right:5px;
+    height:11px;
+    width:11px;
+}
+
+fieldset {
+    border: 1px solid darkgray;
+}
+fieldset legend {
+    font-weight: bold;
+}
+
+.title {
+    font-size:smaller;
+    font-weight: bolder;
+    color: black;
+}
