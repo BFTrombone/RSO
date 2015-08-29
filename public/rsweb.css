@@ -245,3 +245,53 @@ h4 { color: #000000; padding: 0; margin: 0; font-family: "Arial",sans-serif; tex
 /************************************************************ 
    END flyout menu styles 
 *************************************************************/
+
+/************************************************************ 
+   BEGIN calendar styles
+*************************************************************/
+.calendar div.title {
+	font: medium Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	height: 40px;
+	background-color: white;
+	color: black;
+}
+
+.calendar div.footer {
+	font: small Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+.calendar table {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	table-layout: fixed;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.calendar th {
+	font-size: small;
+	padding: 0 0.5em;
+	text-align: center;
+	background-color: gray;
+	color: white;
+}
+
+.calendar td {
+	font-size: x-small;
+	padding: 0.25em 0.25em;
+	width: 14%;
+	height: 80px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.calendar .date {
+	font-size: small;
+	padding: 0.25em 0.25em;
+	text-align: left;
+	vertical-align: top;
+}
+/************************************************************ 
+   END calendar styles
+*************************************************************/
