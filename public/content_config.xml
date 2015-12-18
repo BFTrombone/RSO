@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <concerts>
+    <concert number="1" begin="2015-09-01" end="2015-10-11"/>
+    <concert number="2" begin="2015-10-12" end="2015-11-15"/>
+    <concert number="3" begin="2015-11-16" end="2015-12-11"/>
+    <concert number="4" begin="2015-12-12" end="2016-02-21"/>
+    <concert number="5" begin="2016-02-22" end="2016-04-17"/>
+    <concert number="5" begin="2016-04-18" end="2016-05-22"/>
+  </concerts>
+  <support>
+    <radio show="0"/>
+  </support>
+</config>

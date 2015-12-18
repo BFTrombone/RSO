@@ -18,9 +18,46 @@
         } (document, 'script', 'facebook-jssdk'));
 
         $(document).ready(function () {
-            $("#nextConcert").load("_concert4.html");
-            //$("#kingfm").load("_kingfm.html");
+            var today = getToday();
+
+            if (window.XMLHttpRequest) {
+                xhttp = new XMLHttpRequest();
+            } else {    // IE 5/6
+                xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            xhttp.open("GET", "content_config.xml", false);
+            xhttp.send();
+            xmlDoc = xhttp.responseXML;
+            
+            var concertNumber = 0;
+            var concerts = xmlDoc.getElementsByTagName("concert");
+            for (i = 0; i < concerts.length; i++) {
+                var begin = new Date(concerts[i].getAttribute("begin"));
+                var end = new Date(concerts[i].getAttribute("end"));
+                if (today >= begin && today <= end) {
+                    concertNumber = concerts[i].getAttribute("number");
+                }
+            }
+
+            $("#nextConcert").load("_concert" + concertNumber + ".html");
+
+            if (xmlDoc.getElementsByTagName("radio")[0].getAttribute("show") == "1")
+                $("#kingfm").load("_kingfm.html");
         });
+
+        function getFakeToday() {
+            return new Date("2016-02-21");
+        }
+
+        function getToday() {
+            var today = new Date();
+            var strDate = 'Y-m-d'
+              .replace('Y', today.getFullYear())
+              .replace('m', today.getMonth() + 1)
+              .replace('d', today.getDate());
+            //return new Date(strDate);
+            return getFakeToday();
+        }
     </script>
 </head>
 <body>
@@ -70,7 +107,7 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <tr>
+                <!--<tr>
                     <td style="width:170px;">
                         <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
                             <img src="images/amazon_us_banner_logow_120x60.gif" style="border-style: none;" />
@@ -80,14 +117,14 @@
                         When you shop at Amazon.com, why not shop at <b>AmazonSmile</b>? For every purchase made using this link,
                         Amazon will make a donation to Rainier Symphony.
                     </td>
-                </tr>
-                <!--<tr>
+                </tr>-->
+                <tr>
                     <td colspan="2">
                         <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
                             <img src="images/AmazonSmile_Holiday.png" style="border-style: none; width:500px;" />
                         </a>
                     </td>
-                </tr>-->
+                </tr>
             </table>
             <br/>
             <p style="font-size:small;">
