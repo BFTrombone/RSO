@@ -7,7 +7,7 @@
     <link href="rsweb.css" rel="stylesheet" type="text/css" />
     <link rel="icon" type="image/ico" href="favicon.ico" />
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="common.js"></script>
+    <script src="scripts/common.js"></script>
     <script>
         (function (d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0];
@@ -18,46 +18,12 @@
         } (document, 'script', 'facebook-jssdk'));
 
         $(document).ready(function () {
-            var today = getToday();
-
-            if (window.XMLHttpRequest) {
-                xhttp = new XMLHttpRequest();
-            } else {    // IE 5/6
-                xhttp = new ActiveXObject("Microsoft.XMLHTTP");
-            }
-            xhttp.open("GET", "content_config.xml", false);
-            xhttp.send();
-            xmlDoc = xhttp.responseXML;
-            
-            var concertNumber = 0;
-            var concerts = xmlDoc.getElementsByTagName("concert");
-            for (i = 0; i < concerts.length; i++) {
-                var begin = new Date(concerts[i].getAttribute("begin"));
-                var end = new Date(concerts[i].getAttribute("end"));
-                if (today >= begin && today <= end) {
-                    concertNumber = concerts[i].getAttribute("number");
-                }
-            }
-
+            getConfig();
             $("#nextConcert").load("_concert" + concertNumber + ".html");
-
-            if (xmlDoc.getElementsByTagName("radio")[0].getAttribute("show") == "1")
+            if (showKingFM == "1")
                 $("#kingfm").load("_kingfm.html");
         });
 
-        function getFakeToday() {
-            return new Date("2016-02-21");
-        }
-
-        function getToday() {
-            var today = new Date();
-            var strDate = 'Y-m-d'
-              .replace('Y', today.getFullYear())
-              .replace('m', today.getMonth() + 1)
-              .replace('d', today.getDate());
-            //return new Date(strDate);
-            return getFakeToday();
-        }
     </script>
 </head>
 <body>
