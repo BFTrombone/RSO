@@ -6,10 +6,28 @@
     <meta name="keywords" content="orchestra, symphony, rainier symphony, music, classical music, cultural, washington state, concerts" />
     <link href="rsweb.css" rel="stylesheet" type="text/css" />
     <link rel="icon" type="image/ico" href="favicon.ico" />
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script src="scripts/common.js"></script>
-    <script>
+</head>
+<body>
+    <div id="fb-root"></div>
+    <div class="container">
+        <div id="banner">
+            <!--#include file="_banner.html" -->
+        </div>
+        <div class="nav" id="menu">
+            <!--#include file="_menu.html" -->
+        </div>
+        <div class="content">
+            <div class="title" style="padding-bottom:15px;">Guest Soloist</div>
+            <div id="soloist"></div>
+            <a href="javascript:window.location.assign(document.referrer);">Return to previous page</a>
+        </div>
+    </div>
+</body>
+</html>
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script src="scripts/common.js"></script>
+<script>
         (function (d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0];
             if (d.getElementById(id)) return;
@@ -26,24 +44,8 @@
         }
 
         $(document).ready(function () {
-            var conductor = getParameterByName("c");
-            $("#conductor").load("bios/jeff_lund.html");
+            var soloist = getParameterByName("s");
+            $("#soloist").load("bios/" + soloist + ".html");
         });
 
-    </script>
-</head>
-<body>
-    <div id="fb-root"></div>
-    <div class="container">
-        <div id="banner">
-        </div>
-        <div class="nav" id="menu">
-        </div>
-        <div class="content">
-            <div class="title" style="padding-bottom:15px;" id="conductorTitle">Music Director</div>
-            <div id="conductor"></div>
-            <a href="javascript:window.location.assign(document.referrer);">Return to previous page</a>
-        </div>
-    </div>
-</body>
-</html>
+</script>

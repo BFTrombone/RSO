@@ -1,11 +1,6 @@
 var concertNumber;
 var showKingFM;
 
-$(document).ready(function () {
-    $("#menu").load("_menu.html");
-    $("#banner").load("_banner.html");
-});
-
 function getConfig() {
     var today = new Date();
     if (window.XMLHttpRequest) {
@@ -25,5 +20,6 @@ function getConfig() {
             concertNumber = concerts[i].getAttribute("number");
         }
     }
+    concertNumber = 1;
     showKingFM = xmlDoc.getElementsByTagName("radio")[0].getAttribute("show");
 }

@@ -6,38 +6,20 @@
     <meta name="keywords" content="orchestra, symphony, rainier symphony, music, classical music, cultural, washington state, concerts" />
     <link href="rsweb.css" rel="stylesheet" type="text/css" />
     <link rel="icon" type="image/ico" href="favicon.ico" />
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script src="scripts/common.js"></script>
-    <script>
-        (function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-            fjs.parentNode.insertBefore(js, fjs);
-        } (document, 'script', 'facebook-jssdk'));
-
-        $(document).ready(function () {
-            getConfig();
-            $("#nextConcert").load("_concert" + concertNumber + ".html");
-            if (showKingFM == "1")
-                $("#kingfm").load("_kingfm.html");
-        });
-
-    </script>
 </head>
 <body>
     <div id="fb-root">
     </div>
     <div class="container">
         <div id="banner">
+            <!--#include file="_banner.html" -->
         </div>
         <div class="nav" id="menu">
+            <!--#include file="_menu.html" -->
         </div>
         <div class="content">
             <div class="title">Announcing Our New Music Director!</div>
-            <br/>
+            <br />
             <img src="bios/Jeff_Lund_2.png" style="border: 1px solid black; margin-left: 15px;" align="right" alt="" />
             <p>
                 After a wonderful season filled with great music as we worked under the batons of five talented music director
@@ -49,7 +31,7 @@
                 to working with Jeff for many seasons to come.  Jeff, welcome to the Rainier Symphony family!
             </p>
             <p>
-                More about <a href="MusicDirector.html">Jeff Lund</a>.
+                More about <a href="MusicDirector.shtml">Jeffery N. Lund</a>.
             </p>
             <div class="title">A Note from the Director</div>
             <p>
@@ -62,11 +44,11 @@
             <p>
                 Thank you to the Rainier Symphony Board of Directors for putting your trust in me and welcoming me to lead the Rainier Symphony.
             </p>
-            <p>- Jeff Lund</p>
+            <p>- Jeffery N. Lund</p>
             <br />
             <!--<ul>
-                <li><a href="calendar.html">2016 - 2017 Events</a></li>
-                <li><a href="tickets.html">Ticket Information</a></li>
+                <li><a href="calendar.shtml">2016 - 2017 Events</a></li>
+                <li><a href="tickets.shtml">Ticket Information</a></li>
             </ul>-->
             <hr />
             <font size="+2" face="Arial">Support Rainier Symphony</font>
@@ -90,7 +72,7 @@
                     <td></td>
                     <td></td>
                 </tr>
-                 <tr>
+                <tr>
                     <td style="width:170px;">
                         <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
                             <img src="images/amazon_us_banner_logow_120x60.gif" style="border-style: none;" />
@@ -100,7 +82,7 @@
                         When you shop at Amazon.com, why not shop at <b>AmazonSmile</b>? For every purchase made using this link,
                         Amazon will make a donation to Rainier Symphony.
                     </td>
-                </tr> 
+                </tr>
                 <!--<tr>
                     <td colspan="2">
                         <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
@@ -131,3 +113,23 @@
     </div>
 </body>
 </html>
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script src="scripts/common.js"></script>
+<script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        } (document, 'script', 'facebook-jssdk'));
+
+        $(document).ready(function () {
+            getConfig();
+            $("#nextConcert").load("_concert" + concertNumber + ".html");
+            if (showKingFM == "1")
+                $("#kingfm").load("_kingfm.html");
+        });
+
+</script>

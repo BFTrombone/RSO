@@ -1,0 +1,1165 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <title>Rainier Symphony Members</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta name="robots" content="NOINDEX, NOFOLLOW" />
+    <meta name="keywords" content="orchestra, symphony, rainier symphony, music, classical music, cultural, washington state, concerts" />
+    <link href="rsweb.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/ico" href="favicon.ico" />
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+        function ExpandCollapseContainer(button, containerId) {
+            var container = $('#' + containerId);
+            var isShowing = (container.css('display') != 'none');
+            var icon = (isShowing == true ? "icon_PlusBox" : "icon_MinusBox");
+
+            // hardcoding the root path
+            button.setAttribute("src", "Images/" + icon + ".gif");
+
+            if (isShowing == true)
+                container.hide();
+            else
+                container.show();
+        }
+
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <div id="banner">
+            <!--#include file="_banner.html" -->
+        </div>
+        <div class="nav" id="menu">
+            <!--#include file="_menu.html" -->
+        </div>
+        <div class="content">
+            <div class="title">
+                Season Schedule
+           </div>
+            <p>Download the complete updated schedule <a href="Documents/RS_Reh_Sched_201516.pdf" target="_blank">here</a>. *</p>
+            <fieldset>
+                <legend>
+                    <img class="showHideButton" src="./Images/Icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical1');" />
+                    Classical Concert I, Heroic Triumph
+                </legend>
+                <div id="classical1" style="display:none;">
+                    <div style="font-size:smaller;">
+                        <p>
+                            <span>Beethoven, Egmont Overture</span><br />
+                            <span style="margin-left: 20px">(9') 2 2 2 2 - 4 2 0 0 - timp - str</span>
+                        </p>
+                        <p>
+                            <span>Elgar Cello Concerto</span><br />
+                            <span style="margin-left: 20px">(37') 2 2 2 2 - 4 2 3 1 - timp - str</span>
+                        </p>
+                        <p>
+                            <span>Shostakovich, 5th Symph</span><br />
+                            <span style="margin-left: 20px">(50') 3 2 3 3 - 4 3 3 1 - timp - perc - harp - piano - celesta - str</span>
+                        </p>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr class="columnheader">
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Location</th>
+                                <th>Event</th>
+                                <th>Conductor</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="rehearsal">
+                                <td>9/8/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 1</td>
+                                <td>Jonathan Pasternack</td>
+                                <td style="text-align:center;">1</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>9/15/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 2</td>
+                                <td>Jonathan Pasternack</td>
+                                <td style="text-align:center;">2</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>9/22/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 3</td>
+                                <td>Jonathan Pasternack</td>
+                                <td style="text-align:center;">3</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>9/29/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 4</td>
+                                <td>Jonathan Pasternack</td>
+                                <td style="text-align:center;">4</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>10/6/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 5</td>
+                                <td>Jonathan Pasternack</td>
+                                <td style="text-align:center;">5</td>
+                            </tr>
+                            <tr class="dress">
+                                <td>10/9/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Dress</td>
+                                <td>Jonathan Pasternack</td>
+                                <td style="text-align:center;">6</td>
+                            </tr>
+                            <tr class="concert">
+                                <td>10/10/2015</td>
+                                <td>7:30 PM</td>
+                                <td>Foster</td>
+                                <td>Saturday Concert</td>
+                                <td>Jonathan Pasternack</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="concert">
+                                <td>10/11/2015</td>
+                                <td>3:00 PM</td>
+                                <td>Foster</td>
+                                <td>Sunday Concert</td>
+                                <td>Jonathan Pasternack</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>Notes:</p>
+                    <div style="font-size:smaller">
+                        <ol>
+                            <li>Read all in reverse order: Shostakovich, Elgar, Beethoven</li>
+                            <li>
+                                Shostakovich outer mvts, Beethoven
+                                <ul>
+                                    <li>Shostakovich I 7:15</li>
+                                    <li>Shostakovich IV 8:30</li>
+                                    <li>Egmont, allegros only 9:15</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Elgar with soloist, Shostakovich inner mvts
+                                <ul>
+                                    <li>Elgar 7:15</li>
+                                    <li>Shostakovich II 8:30</li>
+                                    <li>Shostakovich III 8:55</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Elgar, Shostakovich complete
+                                <ul>
+                                    <li>Elgar 7:15</li>
+                                    <li>Shostakovich 8:30</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Concert order
+                                <ul>
+                                    <li>Egmont 7:15</li>
+                                    <li>Elgar 7:45</li>
+                                    <li>Shostakovich 8:45</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Dress in concert order
+                                <ul>
+                                    <li>Egmont 7:15</li>
+                                    <li>Elgar 7:35</li>
+                                    <li>Shostakovich 8:30</li>
+                                </ul>
+                            </li>
+                        </ol>
+                    </div>
+                    <p>Notable Dates:</p>
+                    <div style="font-size:smaller">
+                        <ol>
+                            <li>School starts 9/3, Labor day 9/7</li>
+                            <li>No School 10/9</li>
+                        </ol>
+                    </div>
+                </div>
+            </fieldset>
+            <br />
+            <fieldset>
+                <legend>
+                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical2');" />
+                    Classical Concert II, Traveling Music
+                </legend>
+                <div id="classical2" style="display:none;">
+                    <div style="font-size:smaller;">
+                        <p>
+                            <span>Wagner, Flying Dutchman Overture</span><br/>
+                            <span style="margin-left: 20px">(11') 3 2 2 2 - 4 2 3 1 - timp - harp - str</span>
+                        </p>
+                        <p>
+                            <span>Weber, Clarinet Concerto No. 2</span><br />
+                            <span style="margin-left: 20px">(23') 2 2 0 2 - 2 2 0 0 - timp - str</span>
+                        </p>
+                        <p>
+                            <span>Sibelius, Symphony No. 2</span><br />
+                            <span style="margin-left: 20px">(43') 2 2 2 2 - 4 3 3 1 - timp - str</span>
+                        </p>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr class="columnheader">
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Location</th>
+                                <th>Event</th>
+                                <th>Conductor</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="rehearsal">
+                                <td>10/13/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 1</td>
+                                <td>Robert Collins</td>
+                                <td style="text-align:center;">1</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>10/20/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 2</td>
+                                <td>Robert Collins</td>
+                                <td style="text-align:center;">2</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>10/27/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 3</td>
+                                <td>Robert Collins</td>
+                                <td style="text-align:center;">3</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>11/3/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 4</td>
+                                <td>Robert Collins</td>
+                                <td style="text-align:center;">4</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>11/10/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 5</td>
+                                <td>Robert Collins</td>
+                                <td style="text-align:center;">5</td>
+                            </tr>
+                            <tr class="dress">
+                                <td>11/13/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Dress</td>
+                                <td>Robert Collins</td>
+                                <td style="text-align:center;">6</td>
+                            </tr>
+                            <tr class="concert">
+                                <td>11/14/2015</td>
+                                <td>7:30 PM</td>
+                                <td>Renton</td>
+                                <td>Dress</td>
+                                <td>Robert Collins</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="concert">
+                                <td>11/15/2015</td>
+                                <td>3:00 PM</td>
+                                <td>Foster</td>
+                                <td>Dress</td>
+                                <td>Robert Collins</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>Notes:</p>
+                    <div style="font-size:smaller">
+                        <ol>
+                            <li>
+                                Oct 13, Wagner, Sibelius
+                                <ul>
+                                    <li>Wagner 7:15 - 8:15</li>
+                                    <li>Sibelius 8:30 - 9:45</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Oct 20, Wagner, Sibelius, Weber
+                                <ul>
+                                    <li>Wagner 7:15 - 7:40</li>
+                                    <li>Sibelius III 7:40 - 8:30</li>
+                                    <li>Sibelius IV 8:45 - 9:05</li>
+                                    <li>Weber 9:05 - 9:45</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Oct 27, Weber, Sibelius
+                                <ul>
+                                    <li>Weber 7:15 - 7:45: with soloist</li>
+                                    <li>Sibelius I 7:45 - 8:30</li>
+                                    <li>Sibelius II 8:45 - 9:45</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Nov 3, Weber, Wagner, Sibelius
+                                <ul>
+                                    <li>Weber 7:15 - 7:45: with soloist</li>
+                                    <li>Wagner 7:45 - 8:15</li>
+                                    <li>Sibelius 8:30 - 9:45: movements TBD</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Nov 10, Weber, Wagner, Sibelius
+                                <ul>
+                                    <li>Weber 7:15 - 7:45: with soloist</li>
+                                    <li>Wagner 7:45 - 8:15: with harp</li>
+                                    <li>Sibelius 8:30 - 9:45: movements TBD</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Nov 13 (dress), Wagner, Weber, Sibelius
+                                <ul>
+                                    <li>Weber 7:15 - 7:45: with soloist</li>
+                                    <li>Wagner 7:45 - 8:25: with harp</li>
+                                    <li>Sibelius 8:40 - 9:45</li>
+                                </ul>
+                            </li>
+                        </ol>
+                    </div>
+                        <p>
+                            The Wagner rehearsal letters are sparse so it will be beneficial to go by measure numbers in rehearsal.
+                            When you receive your parts, please number the measures to make the rehearsals go more smoothly. The
+                            following guide shows the measure number at each rehearsal letter.
+                        </p>
+                        <ul>
+                            <li> A=44</li>
+                            <li> B=88</li>
+                            <li> C=129</li>
+                            <li> D=148</li>
+                            <li> E=175</li>
+                            <li> F=203</li>
+                            <li> G=235</li>
+                            <li> H=267</li>
+                            <li> J=285 (No I)</li>
+                            <li> K=313</li>
+                            <li> L=328</li>
+                        </ul>
+                        <p>Notable Dates:</p>
+                        <ol>
+                            <li>Columbus Day 10/12</li>
+                            <li>Veterans Day 11/11</li>
+                            <li>Saturday 11/14 concert is at Renton IKEA</li>
+                        </ol>
+                    </div>
+            </fieldset>
+            <br />
+            <fieldset>
+                <legend>
+                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'holiday');" />
+                    Holiday Favorites
+                </legend>
+                <div id="holiday" style="display:none;">
+                    <p>
+                        NOTE This is not the final performance order
+                    </p>
+                    <div style="font-size:smaller;">
+                        <p>
+                            <span>Antonin Dvorak: Carnival Overture</span><br />
+                            <span style="margin-left: 20px">
+                                (9') 2.picc.2.EH.2.2. 4.2.3.1. timp.tgl.cymb.tamb.harp. str.
+                            </span>
+                        </p>
+                        <p>
+                            Peter Hope: Carol Sequence 4
+                            <ul>
+                                <li>God Rest Ye Merry, Gentleman</li>
+                                <li>The Holy and the Ivy</li>
+                                <li>What Child Is This</li>
+                            </ul>
+                            <span style="margin-left: 20px">2(picc).2.2.2. 4.0.0.0. timp.perc.tubular bells(glock). harp. str.</span>
+                        </p>
+                        <p>
+                            Peter Hope: Carol Sequence 5
+                            <ul>
+                                <li>Joy to the World</li>
+                                <li>In Dulci Jubilo</li>
+                                <li>Silent Night</li>
+                            </ul>
+                            <span style="margin-left: 20px">
+                                2(picc).2.2.2. 4.3.3.0. timp.perc(cymb,SD).vib.glock. harp. str.
+                            </span>
+                        </p>
+                        <p>
+                            <span>Johann Strauss, Jr: Emperor Waltz</span><br />
+                            <span style="margin-left: 20px">
+                                (12') 2.2.2.2. 4.2.3.0 timp.tamb.bd.harp. str
+                            </span>
+                        </p>
+                        <p>
+                            <span>
+                                Marshall Fine (arr): Carol of the Bells
+                            </span><br />
+                            <span style="margin-left: 20px">(3') strings</span>
+                        </p>
+                        <p>
+                            <span>
+                                Leroy Anderson: Sleigh Ride
+                            </span><br />
+                            <span style="margin-left: 20px">(3') 2+1.2.2.2/4.3.3.1,perc,str</span>
+                        </p>
+                        <p>
+                            <span>
+                                John Rutter (arr): O Come All Ye Faithful**
+                            </span><br />
+                            <span style="margin-left: 20px">(4') 2.2.2.2/2.3.3.1,timp,perc,org,str</span>
+                        </p>
+                        <p>
+                            <span>
+                                John Rutter (arr): Joy To The World**
+                            </span><br />
+                            <span style="margin-left: 20px">(3') 0.2.0.2/0.2.0.0,timp,org/hpscd,str</span>
+                        </p>
+                        <p>
+                            <span>
+                                G.F Handel: Hallelujah Chorus from The Messiah**
+                            </span><br />
+                            <span style="margin-left: 20px">(5')</span>
+                        </p>
+
+                        <p>** with high school and middle school choirs</p>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr class="columnheader">
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Location</th>
+                                <th>Event</th>
+                                <th>Conductor</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="rehearsal">
+                                <td>11/24/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 1</td>
+                                <td>Tigran Arakelyan</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>12/1/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 2</td>
+                                <td>Tigran Arakelyan</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="dress">
+                                <td>12/8/2015</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Dress</td>
+                                <td>Tigran Arakelyan</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="concert">
+                                <td>12/11/2015</td>
+                                <td>7:30 PM</td>
+                                <td>Foster</td>
+                                <td>Concert</td>
+                                <td>Tigran Arakelyan</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>Notable Dates:</p>
+                    <ol>
+                        <li>Thanksgiving Day 11/26</li>
+                    </ol>
+                </div>
+            </fieldset>
+            <br />
+            <fieldset>
+                <legend>
+                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'nutcracker');" />
+                    Nutcracker
+                </legend>
+                <div id="nutcracker" style="display:none;">
+                    <table>
+                        <thead>
+                            <tr class="columnheader">
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Location</th>
+                                <th>Event</th>
+                                <th>Conductor</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="special">
+                                <td>11/17/2015</td>
+                                <td>7:15 PM</td>
+                                <td>TBD</td>
+                                <td>Rhsl 1</td>
+                                <td>David Waltman</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="special">
+                                <td>12/5/2015</td>
+                                <td>10AM</td>
+                                <td>Northshore</td>
+                                <td>Dress</td>
+                                <td>David Waltman</td>
+                                <td style="text-align:center;">1</td>
+                            </tr>
+                            <tr class="special special_concert">
+                                <td>12/5/2015</td>
+                                <td>2PM</td>
+                                <td>Northshore</td>
+                                <td>Performance</td>
+                                <td>David Waltman</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="special special_concert">
+                                <td>12/6/2015</td>
+                                <td>2PM</td>
+                                <td>Northshore</td>
+                                <td>Performance</td>
+                                <td>David Waltman</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="special special_concert">
+                                <td>12/12/2015</td>
+                                <td>2PM</td>
+                                <td>Northshore</td>
+                                <td>Performance</td>
+                                <td>David Waltman</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="special special_concert">
+                                <td>12/13/2015</td>
+                                <td>2PM</td>
+                                <td>Northshore</td>
+                                <td>Performance</td>
+                                <td>David Waltman</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>Notes:</p>
+                    <ol>
+                        <li>12/5 morning rehearsal ends at noon</li>
+                    </ol>
+                </div>
+            </fieldset>
+            <br />
+            <fieldset>
+                <legend>
+                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical3');" />
+                    Classical Concert III, Innovation and Reflection
+                </legend>
+                <div id="classical3" style="display:none;">
+                    <div style="font-size:smaller;">
+                        <p>
+                            <span>Berlioz, Roman Carnival Overture</span><br/>
+                            <span style="margin-left: 20px">(9') 2 2 2 2 - 4 2+2 3 0 - timp - perc - str</span>
+                        </p>
+                        <p>
+                            <span>Haydn, Trumpet Concerto</span><br/>
+                            <span style="margin-left: 20px">(14') 2 2 0 2 - 2 2 0 0 - timp - str</span>
+                        </p>
+                        <p>
+                            <span>Brahms, Symphony No. 1</span><br/>
+                            <span style="margin-left: 20px">(45') 2 2 2 2+1 - 4 2 3 0 - timp - str</span>
+                        </p>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr class="columnheader">
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Location</th>
+                                <th>Event</th>
+                                <th>Conductor</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="rehearsal">
+                                <td>1/19/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 1</td>
+                                <td>Pierre-Alain Chevalier</td>
+                                <td style="text-align:center;">1</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>1/26/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 2</td>
+                                <td>Pierre-Alain Chevalier</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>2/2/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 3</td>
+                                <td>Pierre-Alain Chevalier</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>2/9/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 4</td>
+                                <td>Pierre-Alain Chevalier</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>2/16/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 5</td>
+                                <td>Pierre-Alain Chevalier</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="dress">
+                                <td>2/19/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Dress</td>
+                                <td>Pierre-Alain Chevalier</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="concert">
+                                <td>2/20/2016</td>
+                                <td>7:30 PM</td>
+                                <td>Foster</td>
+                                <td>Concert</td>
+                                <td>Pierre-Alain Chevalier</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="concert">
+                                <td>2/21/2016</td>
+                                <td>3:00 PM</td>
+                                <td>Foster</td>
+                                <td>Concert</td>
+                                <td>Pierre-Alain Chevalier</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>Notes:</p>
+                    <ul>
+                        <li>The Berlioz calls for 2 trumpets and 2 cornets</li>
+                        <li>The Brahms calls for contrabasson</li>
+                    </ul>
+                    <p>Rehearsal Order:</p>
+                    <ol>
+                        <li>Berlioz, Brahms, Haydn</li>
+                    </ol>
+                    <p>Notable Dates:</p>
+                    <ol>
+                        <li>Martin Luther King Day 1/18</li>
+                        <li>Super Bowl Sunday 2/7</li>
+                        <li>Valentine's Day 2/14</li>
+                        <li>Presidents' Day 2/15</li>
+                    </ol>
+                </div>
+            </fieldset>
+            <br />
+            <fieldset>
+                <legend>
+                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'nwrs');" />
+                    Northwest Repertory Singers
+                </legend>
+                <div id="nwrs" style="display:none;">
+                    <table>
+                        <thead>
+                            <tr class="columnheader">
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Location</th>
+                                <th>Event</th>
+                                <th>Conductor</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="special">
+                                <td>3/1/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 1</td>
+                                <td>Paul Schulz</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="special">
+                                <td>3/7/2016</td>
+                                <td>7:00 PM</td>
+                                <td>Tacoma</td>
+                                <td>Rhsl 2</td>
+                                <td>Paul Schulz</td>
+                                <td style="text-align:center;">1</td>
+                            </tr>
+                            <tr class="special">
+                                <td>3/11/2016</td>
+                                <td>7:00 PM</td>
+                                <td>Tacoma</td>
+                                <td>Dress</td>
+                                <td>Paul Schulz</td>
+                                <td style="text-align:center;">2</td>
+                            </tr>
+                            <tr class="special special_concert">
+                                <td>3/12/2016</td>
+                                <td>7:30 PM</td>
+                                <td>Tacoma</td>
+                                <td>Saturday Concert</td>
+                                <td>Paul Schulz</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="special special_concert">
+                                <td>3/13/2016</td>
+                                <td>3:00 PM</td>
+                                <td>Tacoma</td>
+                                <td>Sunday Concert</td>
+                                <td>Paul Schulz</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>Notes:</p>
+                    <ol>
+                        <li>Monday rehearsal, ends at 8:30</li>
+                        <li>Friday rehearsal, ends at 9:00</li>
+                    </ol>
+                    <p>
+                        All Tacoma services listed above take place at:
+                        <ul style="list-style-type: none;">
+                            <li>
+                                Mason United Methodist Church
+                            </li>
+                            <li>
+                                2710 N Madison St
+                            </li>
+                            <li>
+                                Tacoma, WA 98407
+                            </li>
+                        </ul>
+                    </p>
+                </div>
+            </fieldset>
+            <br/>
+            <fieldset>
+                <legend>
+                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical4');" />
+                    Classical Concert IV, Of Worlds Unseen
+                </legend>
+                <div id="classical4" style="display:none;">
+                    <div style="font-size:smaller;">
+                        <p>
+                            <span>Walton, Viola Concerto</span><br />
+                            <span style="margin-left: 20px">(26') 2 2 2 2 - 4 2 3 0 - timp - harp - str</span><br />
+                            <span style="margin-left: 20px">2nd flute, oboe and clarinet double on piccolo, cor anglais or bass clarinet</span>
+                        </p>
+                        <p>
+                            <span>Weber, Overture to Oberon</span><br />
+                            <span style="margin-left: 20px">(10') 2 2 2 2 - 4 2 3 0 - timp - str</span>
+                        </p>
+                        <p>
+                            <span>Franck, Symphony in D minor</span><br />
+                            <span style="margin-left: 20px">(40') 2 3 3 2 - 4 4 3 1 - timp - harp -str</span>
+                        </p>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr class="columnheader">
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Location</th>
+                                <th>Event</th>
+                                <th>Conductor</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="rehearsal">
+                                <td>3/15/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 1</td>
+                                <td>Brad Cawyer</td>
+                                <td style="text-align:center;">1</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>3/22/2016</td>
+                                <td>7:15 PM</td>
+                                <td><span style="color:red;">Tukwila Elem</span></td>
+                                <td>Rhsl 2</td>
+                                <td>Brad Cawyer</td>
+                                <td style="text-align:center;">2</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>3/29/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 3</td>
+                                <td>Brad Cawyer</td>
+                                <td style="text-align:center;">3</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>4/5/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 4</td>
+                                <td>Brad Cawyer</td>
+                                <td style="text-align:center;">4</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>4/12/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 5</td>
+                                <td>Brad Cawyer</td>
+                                <td style="text-align:center;">5</td>
+                            </tr>
+                            <tr class="dress">
+                                <td>4/15/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Dress</td>
+                                <td>Brad Cawyer</td>
+                                <td style="text-align:center;">6</td>
+                            </tr>
+                            <tr class="concert">
+                                <td>4/16/2016</td>
+                                <td>7:30 PM</td>
+                                <td>Renton</td>
+                                <td>Concert</td>
+                                <td>Brad Cawyer</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="concert">
+                                <td>4/17/2016</td>
+                                <td>3:00 PM</td>
+                                <td>Foster</td>
+                                <td>Concert</td>
+                                <td>Brad Cawyer</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>Notes:</p>
+                    <ul>
+                        <li>The Franck calls for 2 trumpets and 2 cornets</li>
+                        <li>Saturday concert 4/16 is at Renton IKEA</li>
+                    </ul>
+                    <p>Notes:</p>
+                    <ol>
+                        <li>
+                            3/15
+                            <ul>
+                                <li>Franck</li>
+                                <li>BREAK</li>
+                                <li>Weber</li>
+                                <li>Walton, w/o soloist</li>
+                            </ul>
+                        </li>
+                        <li>
+                            3/22 - <span style="color:red;">Tukwila Elementary</span>
+                            <ul>
+                                <li>Walton, w/o soloist</li>
+                                <li>BREAK</li>
+                                <li>Walton, w/o soloist</li>
+                                <li>Oberon [no earlier than 8:45pm]</li>
+                            </ul>
+                        </li>
+                        <li>
+                            3/29
+                            <ul>
+                                <li>Franck</li>
+                                <li>BREAK</li>
+                                <li>Franck</li>
+                                <li>Walton, w/ soloist [no earlier than 9pm]</li>
+                            </ul>
+                        </li>
+                        <li>
+                            4/5
+                            <ul>
+                                <li>Walton, w/ soloist</li>
+                                <li>Oberon [no earlier than 8pm]</li>
+                                <li>BREAK</li>
+                                <li>Franck</li>
+                            </ul>
+                        </li>
+                        <li>
+                            4/12
+                            <ul>
+                                <li>Franck (I, III)</li>
+                                <li>BREAK</li>
+                                <li>Franck (II)</li>
+                                <li>Oberon [no earlier than 8:45pm]</li>
+                                <li>Walton, w/ soloist</li>
+                            </ul>
+                        </li>
+                        <li>
+                            4/15 -- Dress, Concert Order
+                            <ul>
+                                <li>Oberon</li>
+                                <li>Walton</li>
+                                <li>Franck</li>
+                            </ul>
+                        </li>
+                    </ol>
+                    <p>Notable Dates:</p>
+                    <ol>
+                        <li>Easter Sunday 3/27</li>
+                    </ol>
+                </div>
+            </fieldset>
+            <br />
+            <fieldset>
+                <legend>
+                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical5');" />
+                    Classical Concert V, Romanticism Reimagined
+                </legend>
+                <div id="classical5" style="display:none;">
+                    <div style="font-size:smaller;">
+                        <p>
+                            <span>Herold, Overture to Zampa</span><br/>
+                            <span style="margin-left: 20px">(8') 2 2 2 2 - 4 2 3 1 - timp - perc x 3 - str</span>
+                        </p>
+                        <p>
+                            <span>Brahms, Violin Concerto</span><br />
+                            <span style="margin-left: 20px">(38') 2 2 2 2 - 4 2 0 0 - timp - str</span>
+                        </p>
+                        <p>
+                            <span>Mussorgsky, Pictures at an Exhibition (Ravel)</span><br />
+                            <span style="margin-left: 20px">(35') 3 3 3 2 - alto sax - 4 3 3 1 - timp - perc x 5 - harp - celesta - str</span><br />
+                            <span style="margin-left: 20px">2nd and 3rd flute double on piccolo</span><br />
+                            <span style="margin-left: 20px">3rd oboe is English Horn</span><br />
+                            <span style="margin-left: 20px">3rd clarinet is Bass Clarinet</span>
+                        </p>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr class="columnheader">
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Location</th>
+                                <th>Event</th>
+                                <th>Conductor</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="rehearsal">
+                                <td>4/19/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 1</td>
+                                <td>Jeffery Lund</td>
+                                <td style="text-align:center;">1</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>4/26/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 2</td>
+                                <td>Jeffery Lund</td>
+                                <td style="text-align:center;">2</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>5/3/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 3</td>
+                                <td>Jeffery Lund</td>
+                                <td style="text-align:center;">3</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>5/10/2016</td>
+                                <td>7:15 PM</td>
+                                <td>Foster</td>
+                                <td>Rhsl 4</td>
+                                <td>Jeffery Lund</td>
+                                <td style="text-align:center;">4</td>
+                            </tr>
+                            <tr class="rehearsal">
+                                <td>5/17/2016</td>
+                                <td>7:15 PM</td>
+                                <td><span style="color:red;">Todd Beamer</span></td>
+                                <td>Rhsl 5</td>
+                                <td>Jeffery Lund</td>
+                                <td style="text-align:center;">5</td>
+                            </tr>
+                            <tr class="dress">
+                                <td>5/20/2016</td>
+                                <td>7:15 PM</td>
+                                <td><span style="color:red;">Todd Beamer</span></td>
+                                <td>Dress</td>
+                                <td>Jeffery Lund</td>
+                                <td style="text-align:center;">6</td>
+                            </tr>
+                            <tr class="concert">
+                                <td>5/21/2016</td>
+                                <td>7:30 PM</td>
+                                <td>Foster</td>
+                                <td>Concert</td>
+                                <td>Jeffery Lund</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                            <tr class="concert">
+                                <td>5/22/2016</td>
+                                <td>3:00 PM</td>
+                                <td>Foster</td>
+                                <td>Concert</td>
+                                <td>Jeffery Lund</td>
+                                <td style="text-align:center;"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </ul>
+                    <p>Notes:</p>
+                    <ol>
+                        <li>
+                            4/19
+                            <ul>
+                                <li>Herold (20 min)</li>
+                                <li>Mussorgsky (1 hr)</li>
+                                <li>Brahms</li>
+                            </ul>
+                        </li>
+                        <li>4/26
+                            <ul>
+                                <li>TBD</li>
+                            </ul>
+                        </li>
+                        <li>5/3
+                            <ul>
+                                <li>TBD</li>
+                            </ul>
+                        </li>
+                        <li>5/10
+                        <ul>
+                            <li>TBD</li>
+                        </ul>
+                        </li>
+                        <li>5/17 - Todd Beamer HS
+                            <ul>
+                                <li>TBD</li>
+                            </ul>
+                        </li>
+                        <li>5/20 - Todd Beamer HS
+                            <ul>
+                                <li>Concert order?</li>
+                            </ul>
+                        </li>
+                    </ol>
+                        <p>Notable Dates:</p>
+                        <ol>
+                            <li>Mothers Day 5/8</li>
+                        </ol>
+                    </ol></div>
+            </fieldset>
+            <p>CONCERT CALL TIME IS 7:00PM FRIDAY AND SATURDAY, 2:30PM SUNDAY unless otherwise noted</p>
+            <table style="width:100%;">
+                <tr class="info">
+                    <td>Address</td>
+                    <td>Rainier Symphony<br/>PO Box 58182<br/>Seattle WA, 98136</td>
+                </tr>
+                <tr class="info">
+                    <td>Voicemail</td>
+                    <td>206-781-5618</td>
+                </tr>
+                <tr class="info">
+                    <td>Foster Performing Arts Center</td>
+                   <td>4242 S 144th St<br/>Tukwila, WA 98168</td>
+                </tr>
+                <tr class="info">
+                    <td>Renton IKEA Performing Arts Center</td>
+                    <td>400 S 2nd St<br/>Renton, WA 98057</td>
+                </tr>
+                <tr class="info">
+                    <td>Tukwila Elementary School</td>
+                    <td>5939 S 149th St<br/>Tukwila WA 98168</td>
+                </tr>
+                <tr class="info">
+                    <td>Todd Beamer High School</td>
+                    <td>35999 16th Ave S<br/>Federal Way WA 98003</td>
+                </tr>
+            </table>
+            <br/>
+            <table style="width:100%;">
+                <tr style="color:darkred;">
+                    <td>ABSENCES</td>
+                    <td>attendance@rainiersymphony.org</td>
+                </tr>
+                <tr class="info">
+                    <td>Concertmaster</td>
+                    <td>Ilka Talvi<br/>206-281-7752<br/>talvi.violinstudio@gmail.com</td>
+                </tr>
+                <tr class="info">
+                    <td>Music Librarian</td>
+                    <td>Diane Lange Jones<br/>206-246-7886<br/>dinnylj@aol.com</td>
+                </tr>
+                <tr class="info">
+                    <td>Associate Conductor</td>
+                    <td>Tigran Arakelyan<br/>818-212-4654<br/>arakelyant@gmail.com</td>
+                </tr>
+            </table>
+            <p>
+                As always, the rehearsal orders shown above are guidelines. The actual rehearsal order 
+                for any given rehearsal is subject to change.
+            </p>
+            <p><strong>Instrumentation</strong></p>
+            <p>
+                <ul>
+                    <li>Estimated durations of each piece are indicated in minutes, in parentheses</li>
+                    <li>Instrumentation is listed left to right, woodwinds, brass, all other instruments</li>
+                    <li>Woodwinds and brass are listed highest to lowest voice
+                        <ul>
+                            <li>Flute, Oboe, Clarinet, Bassoon</li>
+                            <li>Horn, Trumpet, Trombone, Tuba</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <p>* Updated 12/1/2015</p>
+        </div>
+    </div>
+
+</body>
+</html>

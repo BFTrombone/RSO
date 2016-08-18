@@ -8,24 +8,16 @@
     <meta name="keywords" content="orchestra, symphony, rainier symphony, music, classical music, cultural, washington state, concerts" />
     <link href="rsweb.css" rel="stylesheet" type="text/css" />
     <link rel="icon" type="image/ico" href="favicon.ico" />
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script src="scripts/common.js"></script>
-    <script>
-        (function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-            fjs.parentNode.insertBefore(js, fjs);
-        } (document, 'script', 'facebook-jssdk'));
-    </script>
 </head>
 
 <body>
 <div class="container">
-<div id="banner"></div>
-<div class="nav" id="menu"></div>
+    <div id="banner">
+        <!--#include file="_banner.html" -->
+    </div>
+    <div class="nav" id="menu">
+        <!--#include file="_menu.html" -->
+    </div>
 
 <div class="content">
 
@@ -70,3 +62,15 @@
 </div>
 </body>
 </html>
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script src="scripts/common.js"></script>
+<script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        } (document, 'script', 'facebook-jssdk'));
+</script>

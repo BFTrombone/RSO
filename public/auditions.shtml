@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <title>Rainier Symphony</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta name="keywords" content="orchestra, symphony, rainier symphony, music, classical music, cultural, washington state, concerts" />
+    <link href="rsweb.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/ico" href="favicon.ico" />
+</head>
+
+
+<body>
+    <div class="container">
+        <div id="banner">
+            <!--#include file="_banner.html" -->
+        </div>
+        <div class="nav" id="menu">
+            <!--#include file="_menu.html" -->
+        </div>
+        <div class="content">
+            <div class="title">Auditions</div>
+            <p>
+                Tuesday evening, August 30, auditions will be held for open positions and for substitutes, extras and
+                utility players. For more information and to request an audition time, please email the orchestra
+                at <a href="mailto:audition@rainiersymphony.org?subject=Audition Inquiry">audition@rainiersymphony.org</a>.
+            </p>
+            <p>
+                If you are interested in playing with the orchestra but unavailable to audition on August 30th, you may be able
+                to schedule an audition at a later date.
+            </p>
+            <p>
+                The orchestra uses any of several methods to determine whether an invitation to join the ensemble as a
+                regular member will be extended. These methods can include traditional audition format before a committee
+                and also sitting in with the orchestra at one or more rehearsals. In most cases, musicians will be expected
+                to play prepared music of their choosing that demonstrates their musical abilities and familiarity with
+                and command of orchestral repertoire. We recommend approximately 10 minutes of prepared material, which
+                should include part of a major concerto and orchestral excerpts.
+            </p>
+            <p>
+                Rainier Symphony has current openings for the following positions:
+                <ul>
+                    <li>Principal Trumpet</li>
+                    <li>Section Trumpet</li>
+                    <li>Section Percussion</li>
+                    <li>Section Violin</li>
+                </ul>
+            </p>
+            <p>
+                In addition to the open positions, the August 30th auditions are for all musicians (any instrument)
+                wishing to be included on the orchestra's list of substitutes, extras and utility instrument
+                players. Specific audition times will be scheduled as soon as possible.
+            </p>
+            <p>
+                Please send audition inquiries to
+                <a href="mailto:audition@rainiersymphony.org?subject=Audition Inquiry">audition@rainiersymphony.org</a>.
+            </p>
+            <br />
+            <br />
+        </div>
+    </div>
+</body>
+</html>
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script src="scripts/common.js"></script>
+<script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        } (document, 'script', 'facebook-jssdk'));
+</script>
