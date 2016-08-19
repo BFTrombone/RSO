@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script>
+        var url = window.location.pathname;
+        var filename = url.substring(url.lastIndexOf('/') + 1);
+        window.location(filename.replace(".html", "") + ".shtml");
+    </script>
+</head>
+<body>
+    Redirecting...
+</body>
+</html>

@@ -6,6 +6,18 @@
     <meta name="keywords" content="orchestra, symphony, rainier symphony, music, classical music, cultural, washington state, concerts" />
     <link href="rsweb.css" rel="stylesheet" type="text/css" />
     <link rel="icon" type="image/ico" href="favicon.ico" />
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+    <script src="scripts/common.js"></script>
+    <script>
+        $(document).ready(function () {
+            for (i = 1; i < 6; i++)
+            {
+                $("#concert" + i).load("_concert" + i + ".html");
+            }
+        });
+
+    </script>
 </head>
 <body>
     <div class="container">
@@ -53,9 +65,6 @@
     </div>
 </body>
 </html>
-<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
-<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
-<script src="scripts/common.js"></script>
 <script>
         (function (d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0];
@@ -64,12 +73,4 @@
             js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
             fjs.parentNode.insertBefore(js, fjs);
         } (document, 'script', 'facebook-jssdk'));
-
-        $(document).ready(function () {
-            for (i = 1; i < 6; i++)
-            {
-                $("#concert" + i).load("_concert" + i + ".html");
-            }
-        });
-
 </script>
