@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <title>Rainier Symphony</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta name="keywords" content="orchestra, symphony, rainier symphony, music, classical music, cultural, washington state, concerts" />
+    <link href="rsweb.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/ico" href="favicon.ico" />
+    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="scripts/common.js"></script>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        } (document, 'script', 'facebook-jssdk'));
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div id="banner"></div>
+        <div class="nav" id="menu"></div>
+        <div class="content">
+            <div class="title">
+                Artistic Advisor</div>
+            <br>
+            <h4>
+                David Waltman</h4>
+            <br>
+            <img src="DavidWaltman.jpg" style="border: 4px solid maroon;margin-left: 15px;" align="right" alt="" />
+            David Waltman has developed
+            an international reputation for both compelling symphonic interpretations and a
+            remarkable ability to inspire orchestras to new levels of achievement. David also
+            serves as Artistic Advisor of the Bainbridge Symphony Orchestra and Permanent Guest
+            Conductor of the Moscow State Symphony Orchestra in Russia, and maintains an active
+            guest conducting schedule in the U.S. and abroad.
+            <br>
+            <br>
+            David has a keen interest in the continuing evolution of symphony orchestras in
+            the 21st century, with a particular emphasis on sustainable business models and
+            community access. In 2005, with the cooperation of business and community leaders
+            in King County, Washington, David launched the Third Millennium Orchestra Project,
+            intended to develop a "best practices" model for a sustainable 21st century regional
+            orchestra. As part of this project, David has greatly expanded Rainier Symphony's
+            community relationships through collaborations with the Evergreen City Ballet, Emerald
+            Ballet Theatre, ChoralSounds Northwest, Northwest University, the Everett Chorale
+            and numerous other performing and visual arts organizations in the region.<br>
+            <br>
+            For nearly two decades, David has also been a sought after clinician and teacher,
+            and has led conducting workshops in Washington state, Hawaii, California, Washington
+            D.C, Colorado, Arizona, New York and Maryland. David's current and former conducting
+            students have been directors or officers assigned to numerous elite military ensembles,
+            including the US Navy Band, the US Naval Academy Band, the US Navy Pacific Fleet
+            Band, the 82nd Airborne Division Band, Navy Band Southwest, Navy Band Southeast,
+            Navy Band Northwest, and the US Navy European Forces Band in Naples, Italy.<br>
+            <br>
+        </div>
+    </div>
+</body>
+</html>

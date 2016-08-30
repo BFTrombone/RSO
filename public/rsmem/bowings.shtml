@@ -45,46 +45,30 @@
         </div>
         <div class="content">
             <div class="title">Bowings</div>
-            <p><h4>2015-2016 Season</h4></p>
+            <p><h4>2016-2017 Season</h4></p>
             <p>
                 Bowings for all works in each concert will be posted here as they become available.
             </p>
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="./Images/Icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical1');" />
-                    Classical Concert I, Heroic Triumph
+                    Classical Concert I, Maiden Voyage
                 </legend>
                 <div id="classical1" style="display:none;">
                     <p><span class="title">Classical I Notes:</span></p>
                     <p>
                         <ul>
-                        <li>The parts for the Shostakovich are a bit large and will take extra time to download.</li>
                         </ul>
                     </p>
-                    <p><span class="title">Beethoven, Egmont Overture</span>
+                    <p>Shostakovich, Festive Overture
                         <ul>
-                            <li><a href="bowings/2015-2016/October_2015/EgmontOverture_ViolinI.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/EgmontOverture_ViolinII.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/EgmontOverture_Viola.pdf" target="_blank">Viola</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/EgmontOverture_CelloAndBass.pdf" target="_blank">Cello and Bass</a></li>
                         </ul>
                     </p>
-                    <p><span class="title">Elgar Cello Concerto</span></p>
+                    <p>Liadov, Eight Russian Folk Songs</p>
                         <ul>
-                            <li><a href="bowings/2015-2016/October_2015/ElgarCelloConcerto_ViolinI.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/ElgarCelloConcerto_ViolinII.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/ElgarCelloConcerto_Viola.pdf" target="_blank">Viola</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/ElgarCelloConcerto_Cello.pdf" target="_blank">Cello</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/ElgarCelloConcerto_Bass.pdf" target="_blank">Bass</a></li>
                         </ul>
-                    <p><span class="title">Shostakovich Symphony No. 5</span>
+                    <p>Rimsky-Korsakov, Scheherazade
                         <ul>
-                            <li><a href="bowings/2015-2016/October_2015/Shostakovich_Violin1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/Shostakovich_Violin2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/Shostakovich_Viola.pdf" target="_blank">Viola</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/Shostakovich_Cello.pdf" target="_blank">Cello</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/Shostakovich_Bass.pdf" target="_blank">Bass</a></li>
-                            <li><a href="bowings/2015-2016/October_2015/Shostakovich_AdditionalViolinPart.pdf" target="_blank">Additional Violin</a/li>
                         </ul>
                     </p>
                 </div>
@@ -93,34 +77,10 @@
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical2');" />
-                    Classical Concert II, Traveling Music
+                    Holiday Concert
                 </legend>
                 <div id="classical2" style="display:none;">
-                    <p><span class="title">Classical II Notes:</span></p>
-                    <p><span class="title">Wagner Flying Dutchman Overture</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/November_2015/Wagner_VLN1.pdf" target="_blank">Violin I</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Wagner_VLN2.pdf" target="_blank">Violin II</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Wagner_VLA.pdf" target="_blank">Viola</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Wagner_Cello.pdf" target="_blank">Cello</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Wagner_Bass.pdf" target="_blank">Bass</a></li>
-                    </ul>
-                    <p><span class="title">Weber Clarinet Concerto No. 2</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/November_2015/Weber_VLN1.pdf" target="_blank">Violin I</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Weber_VLN2.pdf" target="_blank">Violin II</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Weber_VLA.pdf" target="_blank">Viola</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Weber_Cello.pdf" target="_blank">Cello</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Weber_Bass.pdf" target="_blank">Bass</a></li>
-                    </ul>
-                    <p><span class="title">Sibelius Symphony No. 2</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/November_2015/Sibelius_VLN1.pdf" target="_blank">Violin I</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Sibelius_VLN2.pdf" target="_blank">Violin II</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Sibelius_VLA.pdf" target="_blank">Viola</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Sibelius_Cello.pdf" target="_blank">Cello</a></li>
-                        <li><a href="bowings/2015-2016/November_2015/Sibelius_Bass.pdf" target="_blank">Bass</a></li>
-                    </ul>
+                    <p><span class="title">Holiday Notes:</span></p>
                 </div>
             </fieldset>
             <br />
@@ -131,82 +91,106 @@
                 </legend>
                 <div id="holiday" style="display:none;">
                     <p><span class="title">Holiday Concert Notes:</span></p>
+                    <p>
+                        <span style="font-style:italic">A Canadian Brass Christmas</span>, Luther Henderson
+                    </p>
+                    <p>
+                        <span style="font-style:italic">Nutcracker</span>, P. Tchaikovsky
+                        <ul>
+                            <li><span style="font-style:italic">Trepak</span></li>
+                            <li><span style="font-style:italic">Waltz of the Flowers</span></li>
+                        </ul>
+                    </p>
+                    <p>
+                        <span style="font-style:italic">Greensleeves</span>, R. Vaughn-Williams, arr. A. Reed
+                    </p>
+                    <p>
+                        <span style="font-style:italic">A Christmas Festival</span>, Leroy Anderson
+                    </p>
+                    <p>
+                        <span style="font-style:italic">Jingle Bells</span>, David Willcocks
+                    </p>
+                    <p>
+                        <span style="font-style:italic">Silent Night</span>, arr. Peter Hope
+                    </p>
+                    <p>
+                        <span style="font-style:italic">Hark the Herald</span>, arr. Peter Hope
+                    </p>
+                    <p>
+                        <span style="font-style:italic">O Holy Night</span>, Adolphe Adam
+                    </p>
+                    <p>
+                        <span style="font-style:italic">Three Kings of Orient</span>, John Rutter
+                    </p>
+                    <p>
+                        <span style="font-style:italic">Oh Come All Ye Faithful</span>, arr. Peter Hope
+                    </p>
+                    <p>
+                        <span style="font-style:italic">We Wish You a Merry Christmas</span>, Traditional
+                    </p>
+                    <p>
+                        <span style="font-style:italic">Joy to the World</span>, Traditional
+                    </p>
+                    <p><span style="font-style:italic">Sleigh Ride</span>, Leroy Anderson</p>
                 </div>
             </fieldset>
             <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical3');" />
-                    Classical Concert III, Innovation and Reflection
+                    Classical Concert II, Courage and Freedom
                 </legend>
                 <div id="classical3" style="display:none;">
-                    <p><span class="title">Classical III Notes:</span></p>
-                    <p><span class="title">Berlioz Roman Carnival Overture</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/February_2016/Berlioz_Bass.pdf" target="_blank">Bass</a></li>
-                    </ul>
-                    <p><span class="title">Haydn Trumpet Concerto</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/February_2016/Haydn_vln1.pdf" target="_blank">Violin I</a></li>
-                        <li><a href="bowings/2015-2016/February_2016/Haydn_vln2.pdf" target="_blank">Violin II</a></li>
-                    </ul>
-                    <p><span class="title">Brahms Symphony No. 1</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/February_2016/Brahms_Bass.pdf" target="_blank">Bass</a></li>
-                    </ul>
+                    <p><span class="title">Classical II Notes:</span></p>
+                    <p>Sibelius, Finlandia</p>
+                    <ul></ul>
+                    <p>Bizet, Carmen</p>
+                    <ul></ul>
+                    <p>Ravel, Mother Goose</p>
+                    <ul></ul>
+                    <p>Stravinsky, Firebird</p>
+                    <ul></ul>
                 </div>
             </fieldset>
             <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical4');" />
-                    Classical Concert IV, Internationally Romantic
+                    Classical Concert III, Musical Titans
                 </legend>
                 <div id="classical4" style="display:none;">
-                    <p><span class="title">Classical IV Notes:</span></p>
-                    <p><span class="title">Walton Viola Concerto</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/April_2016/Walton_Vln1.pdf" target="_blank">Violin I</a></li>
-                        <li><a href="bowings/2015-2016/April_2016/Walton_VII.pdf" target="_blank">Violin II</a></li>
-                        <li><a href="bowings/2015-2016/April_2016/Walton_Cello.pdf" target="_blank">Cello</a></li>
-                    </ul>
-                    <p><span class="title">Weber Oberon Overture</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/April_2016/Oberon_Vln1.pdf" target="_blank">Violin I</a></li>
-                        <li><a href="bowings/2015-2016/April_2016/Oberon_VII.pdf" target="_blank">Violin II</a></li>
-                        <li><a href="bowings/2015-2016/April_2016/Oberon_Cello.pdf" target="_blank">Cello</a></li>
-                    </ul>
-                    <p><span class="title">Franck Symphony in D Minor</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/April_2016/Franck_Vln1.pdf" target="_blank">Violin I</a></li>
-                        <li><a href="bowings/2015-2016/April_2016/Franck_VII.pdf" target="_blank">Violin II</a></li>
-                        <li><a href="bowings/2015-2016/April_2016/Franck_Cello.pdf" target="_blank">Cello</a></li>
-                    </ul>
+                    <p><span class="title">Classical III Notes:</span></p>
+                    <p>Mozart, Magic Flute Overture</p>
+                    <ul></ul>
+                    <p>Mozart, 3rd Horn Concerto</p>
+                    <ul></ul>
+                    <p>Mahler, Symphony No. 1</p>
+                    <ul></ul>
+
                 </div>
             </fieldset>
             <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical5');" />
-                    Classical Concert V, Romaticism Reimagined
+                    Classical Pops
                 </legend>
                 <div id="classical5" style="display:none;">
-                    <p><span class="title">Classical V Notes:</span></p>
-                    <p><span class="title">Herold Overture to Zampa</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/May_2016/Herold_Zampa_cello.pdf" target="_blank">Cello</a></li>
-                    </ul>
-                    <p><span class="title">Brahms Violin Concerto</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/May_2016/Brahms_Violin_Concerto_vln1.pdf" target="_blank">Violin I</a></li>
-                        <li><a href="bowings/2015-2016/May_2016/Brahms_Violin_Concerto_vla.pdf" target="_blank">Viola</a></li>
-                        <li><a href="bowings/2015-2016/May_2016/Brahms_Violin_Concerto_cello.pdf" target="_blank">Cello</a></li>
-                    </ul>
-                    <p><span class="title">Mussorgsky Pictures at an Exhibition</span></p>
-                    <ul>
-                        <li><a href="bowings/2015-2016/May_2016/Mussorgsky_Pictures_vla.pdf" target="_blank">Viola</a></li>
-                        <li><a href="bowings/2015-2016/May_2016/Mussorgsky_Pictures_Cello.pdf" target="_blank">Cello</a></li>
-                    </ul>
+                    <p><span class="title">Classical Pops Notes:</span></p>
+                    <p>Copland, Hoe Down</p>
+                    <ul></ul>
+                    <p>Rossini, William Tell Overture</p>
+                    <ul></ul>
+                    <p>Lizst, Hungarian Rhapsodie No. 2</p>
+                    <ul></ul>
+                    <p>Tchaikovsky, 1812 Finale</p>
+                    <ul></ul>
+                    <p>Williams, Harry Potter Symphonic Suite</p>
+                    <ul></ul>
+                    <p>Whitney, Lord of the Rings: Fellowship of the Rings</p>
+                    <ul></ul>
+                    <p>Williams, Star Wars Suite</p>
+                    <ul></ul>
                 </div>
             </fieldset>
         </div>

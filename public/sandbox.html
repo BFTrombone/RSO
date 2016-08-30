@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script>
+        var url = window.location.pathname;
+        var filename = url.substring(url.lastIndexOf('/') + 1);
+        document.write("Output:<br/><br/>");
+        document.write(location.hostname + "<br/>");
+        document.write(document.domain + "<br/>");
+
+        document.write("document.URL : " + document.URL + "<br/>");
+        document.write("document.location.href : " + document.location.href + "<br/>");
+        document.write("document.location.origin : " + document.location.origin + "<br/>");
+        document.write("document.location.hostname : " + document.location.hostname + "<br/>");
+        document.write("document.location.host : " + document.location.host + "<br/>");
+        document.write("document.location.pathname : " + document.location.pathname + "<br/>");
+    </script>
+</head>
+<body>
+</body>
+</html>

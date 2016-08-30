@@ -4,9 +4,10 @@
     <title></title>
     <meta charset="utf-8" />
     <script>
-        var url = window.location.pathname;
-        var filename = url.substring(url.lastIndexOf('/') + 1);
-        window.location(filename.replace(".html", "") + ".shtml");
+        if (document.location.pathname == "/")
+            window.location.replace(document.location.origin + "/index.shtml");
+        else
+            window.location.replace(document.location.href.replace(".html", ".shtml"));
     </script>
 </head>
 <body>
