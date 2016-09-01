@@ -82,19 +82,15 @@
             <table style="width:100%;">
                 <tr style="color:darkred;">
                     <td>ABSENCES</td>
-                    <td>attendance@rainiersymphony.org</td>
+                    <td><a href="mailto:attendance@rainiersymphony.org?subject=Absence">attendance@rainiersymphony.org</a></td>
                 </tr>
                 <tr class="info">
                     <td>Concertmaster</td>
-                    <td>Ilka Talvi<br/>206-281-7752<br/>talvi.violinstudio@gmail.com</td>
+                    <td>Ilka Talvi<br/>206-281-7752<br/><a href="mailto:talvi.violinstudio@gmail.com">talvi.violinstudio@gmail.com</a></td>
                 </tr>
                 <tr class="info">
                     <td>Music Librarian</td>
-                    <td>Diane Lange Jones<br/>206-246-7886<br/>dinnylj@aol.com</td>
-                </tr>
-                <tr class="info">
-                    <td>Associate Conductor</td>
-                    <td>Tigran Arakelyan<br/>818-212-4654<br/>arakelyant@gmail.com</td>
+                    <td>Diane Lange Jones<br/>206-246-7886<br/><a href="mailto:dinnylj@aol.com">dinnylj@aol.com</a></td>
                 </tr>
             </table>
             <p>
