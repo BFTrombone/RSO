@@ -105,6 +105,19 @@
                 </div>
             </fieldset>
             <br />
+            <fieldset>
+                <legend>
+                    <img class="showHideButton" src="./Images/Icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'season20162017');" />
+                    Season 2016 - 2017
+                </legend>
+                <div id="season20162017" style="display:none;">
+                    <ul>
+                        <li><a href="http://rs.westseattlecomputers.com/2016-2017/2016-10-22%20Maiden%20Voyage.zip">Maiden Voyage 10/22/2016</a></li>
+                        <li><a href="http://rs.westseattlecomputers.com/2016-2017/2016-10-23%20Maiden%20Voyage.zip">Maiden Voyage 10/23/2016</a></li>
+                    </ul>
+                </div>
+            </fieldset>
+            <br />
 
         </div>
     </div>
