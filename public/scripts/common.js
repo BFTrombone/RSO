@@ -20,6 +20,5 @@ function getConfig() {
             concertNumber = concerts[i].getAttribute("number");
         }
     }
-    concertNumber = 1;
     showKingFM = xmlDoc.getElementsByTagName("radio")[0].getAttribute("show");
 }
