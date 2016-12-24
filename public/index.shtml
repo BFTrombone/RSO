@@ -18,33 +18,20 @@
             <!--#include file="_menu.html" -->
         </div>
         <div class="content">
-            <div class="title">Announcing Our New Music Director!</div>
+            <div class="title">Featured on Musical Chairs</div>
             <br />
             <img src="bios/Jeff_Lund_2.png" style="border: 1px solid black; margin-left: 15px;" align="right" alt="" />
             <p>
-                After a wonderful season filled with great music as we worked under the batons of five talented music director
-                candidates, we are pleased to announce that Jeffery Lund has accepted the position of Rainier Symphony Music Director.
+                Tune in to <a href="http://www.king.org/category/musicalchairs/" target="_blank">Classical KING FM 98.1</a> at 7:00 pm, on Friday,
+                December 30, 2016, when Musical Chairs host Michael Brooks interviews Rainier Symphony Music Director Jeffery Lund. You will hear some of the music from the orchestra's upcoming concerts as Jeff talks about the programming for his first season with the orchestra.
+
             </p>
+            <font size="+1" face="Arial">Musical Chairs</font>
             <p>
-                The Rainier Symphony has had only six music directors in its 35-year history, which reflects the community and
-                family spirit of the organization.  Choosing a new music director is a big decision. We're all looking forward
-                to working with Jeff for many seasons to come.  Jeff, welcome to the Rainier Symphony family!
+                Classical KING FM's Michael Brooks hosts Musical Chairs every Friday at 7:00 pm. Each week Michael chats with a member of the Pacific Northwest classical music community and plays some of their favorite works, sharing stories and background.
+                Hear more at: <a href="http://www.king.org/category/musicalchairs/#sthash.D6UoA454.dpuf" target="_blank">http://www.king.org/category/musicalchairs/</a>
             </p>
-            <p>
-                More about <a href="MusicDirector.shtml">Jeffery N. Lund</a>.
-            </p>
-            <div class="title">A Note from the Director</div>
-            <p>
-                Greetings! It is truly my pleasure to be given the opportunity to work with the Rainier Symphony as Conductor
-                and Music Director. I am thrilled at the prospect of the wonderful music we will make together. I believe we
-                have an exciting year ahead of us and that this season's concerts will not only offer enjoyable experiences, but
-                will also provide inspirational and musically gratifying connections among all orchestra members and the listening
-                community, as well.
-            </p>
-            <p>
-                Thank you to the Rainier Symphony Board of Directors for putting your trust in me and welcoming me to lead the Rainier Symphony.
-            </p>
-            <p>- Jeffery N. Lund</p>
+            <img src="images/kingfm_logo.jpg" style="border: 1px solid transparent; margin-left: 15px;" alt="" />
             <br />
             <!--<ul>
                 <li><a href="calendar.shtml">2016 - 2017 Events</a></li>
