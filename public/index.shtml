@@ -20,7 +20,7 @@
         <div class="content">
             <div class="title">Featured on Musical Chairs</div>
             <br />
-            <img src="bios/Jeff_Lund_2.png" style="border: 1px solid black; margin-left: 15px;" align="right" alt="" />
+            <img src="bios/Jeff_Lund_1.png" style="border: 1px solid black; margin-left: 15px;" align="right" alt="" />
             <p>
                 Tune in to <a href="http://www.king.org/category/musicalchairs/" target="_blank">Classical KING FM 98.1</a> at 7:00 pm, on Friday,
                 December 30, 2016, when Musical Chairs host Michael Brooks interviews Rainier Symphony Music Director Jeffery Lund. You will hear some of the music from the orchestra's upcoming concerts as Jeff talks about the programming for his first season with the orchestra.
@@ -59,28 +59,15 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <!--<tr>
-            <td style="width:170px;">
-                <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
-                    <img src="images/amazon_us_banner_logow_120x60.gif" style="border-style: none;" />
-                </a>
-            </td>
-            <td>
-                When you shop at Amazon.com, why not shop at <b>AmazonSmile</b>? For every purchase made using this link,
-                Amazon will make a donation to Rainier Symphony.
-            </td>
-        </tr>-->
                 <tr>
-                    <td colspan="2">
+                    <td>
                         Remember, you can support the Rainier Symphony when you shop at Amazon using this link
                         <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">smile.amazon.com</a>.
                         When you shop AmazonSmile, Amazon donates a percentage of your purchases to the Rainier Symphony. And we thank you.
                     </td>
-                </tr>
-                <tr>
-                    <td colspan="2">
+                    <td>
                         <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
-                            <img src="images/AmazonSmile_Holiday_2016_2.png" style="border-style: none; width:500px;" />
+                            <img src="images/amazon_us_banner_logow_120x60.gif" style="border-style: none;" />
                         </a>
                     </td>
                 </tr>
