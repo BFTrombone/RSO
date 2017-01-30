@@ -18,20 +18,17 @@
             <!--#include file="_menu.html" -->
         </div>
         <div class="content">
-            <div class="title">Featured on Musical Chairs</div>
+            <font size="+2" face="Arial">Next Concert:</font>
             <br />
-            <img src="bios/Jeff_Lund_1.png" style="border: 1px solid black; margin-left: 15px;" align="right" alt="" />
+            <div id="nextConcert"></div>
+            <img src="bios/Jeff_Lund_1.png" style="border: 1px solid black; margin-left: 15px; width: 200px" align="right" alt="" />
             <p>
-                Tune in to <a href="http://www.king.org/category/musicalchairs/" target="_blank">Classical KING FM 98.1</a> at 7:00 pm, on Friday,
-                December 30, 2016, when Musical Chairs host Michael Brooks interviews Rainier Symphony Music Director Jeffery Lund. You will hear some of the music from the orchestra's upcoming concerts as Jeff talks about the programming for his first season with the orchestra.
-
+               Music Director Jeffery Lund has planned a concert that takes us from the opening deep brass chords of Sibelius's Finlandia through Bizet's musical depictions of marching toreadors and Carmen's sultry pleadings, the exquisite textures of Ravel's Ma Mere l'Oye, and the frenetic rhythms of Stravinsky's Firebird. Don't miss this program that explores every color of the orchestral palette. We look forward to seeing you at the concert.
             </p>
-            <font size="+1" face="Arial">Musical Chairs</font>
-            <p>
-                Classical KING FM's Michael Brooks hosts Musical Chairs every Friday at 7:00 pm. Each week Michael chats with a member of the Pacific Northwest classical music community and plays some of their favorite works, sharing stories and background.
-                Hear more at: <a href="http://www.king.org/category/musicalchairs/#sthash.D6UoA454.dpuf" target="_blank">http://www.king.org/category/musicalchairs/</a>
-            </p>
-            <img src="images/kingfm_logo.jpg" style="border: 1px solid transparent; margin-left: 15px;" alt="" />
+            <br />
+            <br />
+            <br />
+            <br />
             <br />
             <!--<ul>
                 <li><a href="calendar.shtml">2016 - 2017 Events</a></li>
@@ -77,10 +74,7 @@
                 Rainier Symphony is a 501(c)(3) non-profit organization.
             </p>
             <hr />
-            <font size="+2" face="Arial">Next Concert:</font>
             <br />
-            <br />
-            <div id="nextConcert"></div>
             <div id="kingfm"></div>
             <p>
                 <div class="fb-like" data-href="http://www.facebook.com/RainierSymphony" data-send="true"
