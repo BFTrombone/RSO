@@ -21,19 +21,24 @@
             <font size="+2" face="Arial">Next Concert:</font>
             <br />
             <div id="nextConcert"></div>
-            <img src="bios/Jeff_Lund_1.png" style="border: 1px solid black; margin-left: 15px; width: 200px" align="right" alt="" />
-            <p>
-                Rainier Symphony Music Director Jeffery Lund has designed a program that will entice
-                the novice concert-goer and the classical music aficionado alike.  Opening with the
-                deep brass chords and triumphant themes of Sibelius's <span style="font-style:italic">Finlandia</span>, our program will
-                travel through Bizet's musical depictions of marching toreadors and Carmen's sultry
-                pleadings, the exquisite textures of Ravel's <span style="font-style:italic">Mother Goose Suite</span>, and the frenetic
-                rhythms of Stravinsky's <span style="font-style:italic">Firebird</span>. Don't miss this program
-                that explores every color of the orchestral palette. We look forward to seeing you at the concert.
-            </p>
-            <br />
-            <br />
-            <br />
+            <div id="nextConcertBlurb" style="display:none;">
+                <img src="bios/Jeff_Lund_2.png" style="border: 1px solid black; margin-left: 15px; width: 200px" align="right" alt="" />
+                <p>
+                    Rainier Symphony Music Director Jeffery Lund invites you to experience .  We begin our journey with
+                    Mozart's exciting Overture to <span style="font-style:italic">The Magic Flute</span>, his final
+                    opera. <a href="soloist.shtml?s=gina_gillie">Dr. Gina Gillie</a> next performs Mozart's 3rd horn
+                    concerto. We conclude with Mahler's Symphony No. 1, <span style="font-style:italic">Titan</span>.
+                </p>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+            </div>
             <!--<ul>
                 <li><a href="calendar.shtml">2016 - 2017 Events</a></li>
                 <li><a href="tickets.shtml">Ticket Information</a></li>
