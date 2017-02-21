@@ -89,16 +89,6 @@
             <br/>
             <fieldset>
                 <legend>
-                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical2');" />
-                    Holiday Concert
-                </legend>
-                <div id="classical2" style="display:none;">
-                    <p><span class="title">Holiday Notes:</span></p>
-                </div>
-            </fieldset>
-            <br />
-            <fieldset>
-                <legend>
                     <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'holiday');" />
                     Holiday Concert
                 </legend>
