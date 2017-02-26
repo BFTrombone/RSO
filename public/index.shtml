@@ -21,23 +21,25 @@
             <font size="+2" face="Arial">Next Concert:</font>
             <br />
             <div id="nextConcert"></div>
-            <div id="nextConcertBlurb" style="display:none;">
+            <div id="nextConcertBlurb">
                 <img src="bios/Jeff_Lund_2.png" style="border: 1px solid black; margin-left: 15px; width: 200px" align="right" alt="" />
                 <p>
-                    Rainier Symphony Music Director Jeffery Lund invites you to experience .  We begin our journey with
-                    Mozart's exciting Overture to <span style="font-style:italic">The Magic Flute</span>, his final
-                    opera. <a href="soloist.shtml?s=gina_gillie">Dr. Gina Gillie</a> next performs Mozart's 3rd horn
-                    concerto. We conclude with Mahler's Symphony No. 1, <span style="font-style:italic">Titan</span>.
+                    Our upcoming concert, entitled "Musical Titans", will feature the work of two composers: Wolfgang Amadeus Mozart,
+                    and Gustav Mahler. Both of these composers have made dramatic impacts on the development of orchestral music within
+                    their respective time periods. The manic rhythms in Mozart's Overture to the
+                    <span style="font-style:italic">Magic Flute</span>, paired with the lyrical
+                    and energetic melodies of his Horn Concerto no. 3 in Eb Major, are an excellent balance to the epic emotional
+                    journey in Symphony no. 1 in D Major, by Gustav Mahler. This symphony was later given the programmatic title of
+                    the "<span style="font-style:italic">Titan</span>" because of its large-scale orchestration and massive
+                    soundscape. Please join us for a concert that is sure to offer a climactic end to our already thrilling
+                    season of Classics Concerts.
                 </p>
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
+                <p>
+                    Also, stay tuned for information on our Summer Pops Concerts on June 3rd, at 7:30 pm, and June 4th, at 3:00 pm.
+                    These concerts will feature music from Star Wars, Harry Potter, Lord of the Rings, and some favorites from the
+                    Classical repertoire including the Finale from Tchaikovsky's infamous <span style="font-style:italic">1812 Overture</span>,  and Copland's
+                    <span style="font-style:italic">Hoe Down</span> from <span style="font-style:italic">Rodeo</span>.
+                </p>
             </div>
             <!--<ul>
                 <li><a href="calendar.shtml">2016 - 2017 Events</a></li>
