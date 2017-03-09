@@ -163,15 +163,24 @@
                 </legend>
                 <div id="classical4" style="display:none;">
                     <p><span class="title">Classical III Notes:</span></p>
-                    <p>Mozart, Magic Flute Overture</p>
-                    <ul></ul>
-                    <p>Mozart, 3rd Horn Concerto</p>
-                    <ul></ul>
+                    <p>
+                        Mozart, Magic Flute Overture
+                        <ul>
+                            <li><a href="bowings/2016-2017/April_2017/Mozart_MagicFlute_cello.pdf" target="_blank">Cello</a></li>
+                        </ul>
+                    </p>
+                    <p>
+                        Mozart, 3rd Horn Concerto
+                        <ul>
+                            <li><a href="bowings/2016-2017/April_2017/Mozart_HornConcerto3_cello.pdf" target="_blank">Cello</a></li>
+                        </ul>
+                    </p>
                     <p>
                         Mahler, Symphony No. 1
                         <ul>
                             <li><a href="bowings/2016-2017/April_2017/Mahler1_vlnI.pdf" target="_blank">Violin I</a></li>
                             <li><a href="bowings/2016-2017/April_2017/Mahler1_vlnII.pdf" target="_blank">Violin II</a></li>
+                            <li><a href="bowings/2016-2017/April_2017/Mahler1_cello.pdf" target="_blank">Cello</a></li>
                         </ul>
                     </p>
                     <p>
