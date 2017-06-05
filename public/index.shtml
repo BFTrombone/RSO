@@ -18,28 +18,23 @@
             <!--#include file="_menu.html" -->
         </div>
         <div class="content">
-            <font size="+2" face="Arial">Next Concert:</font>
+            <!--<font size="+2" face="Arial">Next Concert:</font>-->
+            <font size="+2" face="Arial">Thanks</font>
             <br />
-            <div id="nextConcert"></div>
+            <div id="nextConcert" style="hidden"></div>
             <div id="nextConcertBlurb">
-                <img src="bios/Jeff_Lund_3.png" style="border: 1px solid black; margin-left: 15px; width: 220px" align="right" alt="" />
+                <img src="bios/Jeff_Lund_1.png" style="border: 1px solid black; margin-left: 15px; width: 220px" align="right" alt="" />
                 <p>
-                    After a fantastic first year with the orchestra, I'm excited to present our final concert of the season: 
-                    <span style="font-style:italic">Classical Pops</span>! Join us on June 3rd at 7:30 pm, and June 4th at 3:00 pm, as we 
-                    celebrate the end of our season, our musicians, and our new directions. For this concert, we'll be presenting some hits 
-                    from the orchestral catalogue, as well as highlighting some of Hollywood's biggest blockbusters.
+                    What a fantastic year this has been! It has truly been my pleasure to serve as Music Director for the Rainier Symphony, and I am thrilled to continue these efforts in the coming seasons. I hope you, our patrons, have found our concert programs as enjoyable and as rewarding as we felt while performing them for you.
                 </p>
                 <p>
-                    The collage of classical repertoire that comprises our first half will include a variety of composers from different 
-                    genres, periods, and nationalities. In this music, we'll hear America's westward expansion, a day in the life of 
-                    Switzerland's first "hero", gypsy themes from wanderers in Hungary, and a celebration of Russia's resistance to 
-                    Napoleon. Additionally, the second half of the program will feature themes from the wizarding world, melodies from 
-                    Middle Earth, and the galactic civil war. 
+                    I want to thank the musicians of the orchestra for their hard work, for trusting in me, and for their unwavering support of the organization and each other. I would also like to thank the many volunteers who aid the orchestra on performance weekends - your efforts make it possible for the musicians to focus solely on creating a magical performance experience for our audience members. It goes without saying that the inner-workings of the Rainier Symphony wouldn't be as effective or as efficient without our wonderful Board of Directors. Their time spent working on administrative duties is ample, and certainly deserves recognition. Lastly, a huge thank you to you, friends and families of the Rainier Symphony. Without your support and attendance at our concerts, the experience of playing this wonderful music would only be worth a fraction of what it is when we're able to perform for you.
                 </p>
                 <p>
-                    Please bring your family and friends and join us as we bring our 2016-17 concert season to a close, and check in 
-                    through the summer to see what we have in store for next year's program.  Hope to see you there!
+                    This orchestra is truly a stand-out group in the greater Seattle area. I look forward to presenting many more concerts with these excellent musicians. Please stay tuned to our website in the coming weeks for more detailed information on next season. Our concert programs and performance schedule will be updated in the coming weeks, so make sure to check back in to see what's in store for next year.
                 </p>
+                <p>All the best,</p>
+                <p><img src="images/JeffLund_Signature.jpeg" style="border: 0px transparent;" alt="" /></p>
             </div>
             <!--<ul>
                 <li><a href="calendar.shtml">2016 - 2017 Events</a></li>
