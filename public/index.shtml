@@ -63,23 +63,14 @@
                     <td></td>
                 </tr>
                 <tr>
-                    <!--<td colspan="2">
+                    <td colspan="2">
                         Remember, you can support the Rainier Symphony when you shop at Amazon using this link
                         <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">smile.amazon.com</a>.
                         When you shop AmazonSmile, Amazon donates a percentage of your purchases to the Rainier Symphony. And we thank you.
-                    </td>-->
-                    <td colspan="2">
-                        When you #StartWithaSmile on #PrimeDay, Amazon donates to Rainier Symphony. Shop for great deals at 
-                        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">smile.amazon.com</a>.
                     </td>
-                    </tr>
-                <tr>
                     <td colspan="2">
-                        <!--<a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
-                            <img src="images/amazon_us_banner_logow_120x60.gif" style="border-style: none;" />
-                        </a>-->
                         <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
-                            <img src="images/AmazonPrimeDay_2017.png" style="border-style: none; width=75%;" width="500" />
+                            <img src="images/amazon_us_banner_logow_120x60.gif" style="border-style: none;" />
                         </a>
                     </td>
                 </tr>
