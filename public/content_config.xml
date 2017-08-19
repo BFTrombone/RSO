@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
   <concerts>
-    <concert number="1" begin="2016-07-01" end="2016-10-23"/>
-    <concert number="2" begin="2016-10-24" end="2016-12-18"/>
-    <concert number="3" begin="2016-12-19" end="2017-02-12"/>
-    <concert number="4" begin="2017-02-13" end="2017-04-02"/>
-    <concert number="5" begin="2017-04-03" end="2017-06-04"/>
+    <concert number="1" begin="2017-08-01" end="2017-10-22"/>
+    <concert number="2" begin="2017-10-22" end="2017-12-17"/>
+    <concert number="3" begin="2017-12-18" end="2018-02-12"/>
+    <concert number="4" begin="2018-02-13" end="2018-04-08"/>
+    <concert number="5" begin="2018-04-09" end="2018-06-03"/>
   </concerts>
   <support>
     <radio show="0"/>

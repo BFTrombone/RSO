@@ -18,79 +18,66 @@
             <!--#include file="_menu.html" -->
         </div>
         <div class="content">
-            <!--<font size="+2" face="Arial">Next Concert:</font>-->
-            <font size="+2" face="Arial">Thanks</font>
-            <br />
-            <div id="nextConcert" style="hidden"></div>
+            <p><font size="+2" face="Arial">Next Concert:</font></p>
+            <div id="nextConcert" ></div>
             <div id="nextConcertBlurb">
-                <img src="bios/Jeff_Lund_1.png" style="border: 1px solid black; margin-left: 15px; width: 220px" align="right" alt="" />
-                <p>
-                    What a fantastic year this has been! It has truly been my pleasure to serve as Music Director for the Rainier Symphony, and I am thrilled to continue these efforts in the coming seasons. I hope you, our patrons, have found our concert programs as enjoyable and as rewarding as we felt while performing them for you.
-                </p>
-                <p>
-                    I want to thank the musicians of the orchestra for their hard work, for trusting in me, and for their unwavering support of the organization and each other. I would also like to thank the many volunteers who aid the orchestra on performance weekends - your efforts make it possible for the musicians to focus solely on creating a magical performance experience for our audience members. It goes without saying that the inner-workings of the Rainier Symphony wouldn't be as effective or as efficient without our wonderful Board of Directors. Their time spent working on administrative duties is ample, and certainly deserves recognition. Lastly, a huge thank you to you, friends and families of the Rainier Symphony. Without your support and attendance at our concerts, the experience of playing this wonderful music would only be worth a fraction of what it is when we're able to perform for you.
-                </p>
-                <p>
-                    This orchestra is truly a stand-out group in the greater Seattle area. I look forward to presenting many more concerts with these excellent musicians. Please stay tuned to our website in the coming weeks for more detailed information on next season. Our concert programs and performance schedule will be updated in the coming weeks, so make sure to check back in to see what's in store for next year.
-                </p>
-                <p>All the best,</p>
-                <p><img src="images/JeffLund_Signature.jpeg" style="border: 0px transparent;" alt="" /></p>
             </div>
+
             <!--<ul>
-                <li><a href="calendar.shtml">2016 - 2017 Events</a></li>
-                <li><a href="tickets.shtml">Ticket Information</a></li>
+            <li><a href="calendar.shtml">2016 - 2017 Events</a></li>
+            <li><a href="tickets.shtml">Ticket Information</a></li>
             </ul>-->
-            <hr />
-            <font size="+2" face="Arial">Support Rainier Symphony</font>
-            <br />
-            <br />
-            <table style="border:none;">
-                <tr>
-                    <td>
-                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                            <input type="hidden" name="cmd" value="_s-xclick" />
-                            <input type="hidden" name="hosted_button_id" value="7SLRQKRWGPUUG" />
-                            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-                            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-                        </form>
-                    </td>
-                    <td>
-                        Your donation helps keep classical music alive and affordable in South Sound communities.
-                    </td>
-                </tr>
-                <tr style="height:15px">
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td colspan="2">
-                        Remember, you can support the Rainier Symphony when you shop at Amazon using this link
-                        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">smile.amazon.com</a>.
-                        When you shop AmazonSmile, Amazon donates a percentage of your purchases to the Rainier Symphony. And we thank you.
-                    </td>
-                    <td colspan="2">
-                        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
-                            <img src="images/amazon_us_banner_logow_120x60.gif" style="border-style: none;" />
-                        </a>
-                    </td>
-                </tr>
-            </table>
-            <br />
-            <p style="font-size:small;">
-                Rainier Symphony is a 501(c)(3) non-profit organization.
-            </p>
-            <hr />
-            <br />
-            <div id="kingfm"></div>
-            <p>
-                <div class="fb-like" data-href="http://www.facebook.com/RainierSymphony" data-send="true"
-                     data-width="450" data-show-faces="true">
-                </div>
-            </p>
-            <p style="font-size:x-small;">
-                Thanks to Shaya Lyon/Live Music Project for the banner photo.
-            </p>
-        </div>
+                <hr />
+                <font size="+2" face="Arial">Support Rainier Symphony</font>
+                <br />
+                <br />
+                <table style="border:none;">
+                    <tr>
+                        <td>
+                            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                <input type="hidden" name="cmd" value="_s-xclick" />
+                                <input type="hidden" name="hosted_button_id" value="7SLRQKRWGPUUG" />
+                                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+                                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                            </form>
+                        </td>
+                        <td>
+                            Your donation helps keep classical music alive and affordable in South Sound communities.
+                        </td>
+                    </tr>
+                    <tr style="height:15px">
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            Remember, you can support the Rainier Symphony when you shop at Amazon using this link
+                            <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">smile.amazon.com</a>.
+                            When you shop AmazonSmile, Amazon donates a percentage of your purchases to the Rainier Symphony. And we thank you.
+                        </td>
+                        <td colspan="2">
+                            <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
+                                <img src="images/amazon_us_banner_logow_120x60.gif" style="border-style: none;" />
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                <p style="font-size:small;">
+                    Rainier Symphony is a 501(c)(3) non-profit organization.
+                </p>
+                <hr />
+                <br />
+                <div id="kingfm"></div>
+                <p>
+                    <div class="fb-like" data-href="http://www.facebook.com/RainierSymphony" data-send="true"
+                         data-width="450" data-show-faces="true">
+                    </div>
+                </p>
+                <p style="font-size:x-small;">
+                    Thanks to Shaya Lyon/Live Music Project for the banner photo.
+                </p>
+            </div>
     </div>
 </body>
 </html>
