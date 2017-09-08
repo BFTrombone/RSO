@@ -18,6 +18,24 @@
             <!--#include file="_menu.html" -->
         </div>
         <div class="content">
+            <p><font size="+2" face="Arial">2017 - 2018 Season</font></p>
+            <p>
+                Greetings friends of the Rainier Symphony! After a short summer off, we're excited to return for another
+                season of wonderful programs you will definitely enjoy. This season will bring you compositions from many
+                musical generations: young and old. Each concert is designed to introduce pieces and composers that may be
+                unfamiliar to you. Fear not, these "new" pieces will be accompanied by some of the most popular symphonic
+                works in the orchestral repertoire. Join us to hear your most beloved classical themes, and you may leave
+                each concert with a new favorite.
+            </p>
+            <p>
+                Also, as a gesture of gratitude to our ardent patrons, we have reduced the cost of season tickets in order
+                to increase the discount to subscribers relative to the price of individually purchased tickets. If you're already
+                a season ticket holder, please enjoy this lower ticket price, and thank you for your support. If you're not yet
+                a season ticket holder, it's not too late!  You can find information on our entire concert season on the website, as
+                well as information on purchasing season tickets. We know there are lots of ways to spend your weekends, and we're
+                grateful you spend our concert weekends with us!
+            </p>
+
             <p><font size="+2" face="Arial">Next Concert:</font></p>
             <div id="nextConcert" ></div>
             <div id="nextConcertBlurb">
