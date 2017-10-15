@@ -45,14 +45,14 @@
         </div>
         <div class="content">
             <div class="title">Bowings</div>
-            <p><h4>2016-2017 Season</h4></p>
+            <p><h4>2017-2018 Season</h4></p>
             <p>
                 Bowings for all works in each concert will be posted here as they become available.
             </p>
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="./Images/Icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical1');" />
-                    Classical Concert I, Maiden Voyage
+                    Classical Concert I, Orchestral Dances
                 </legend>
                 <div id="classical1" style="display:none;">
                     <p><span class="title">Classical I Notes:</span></p>
@@ -60,28 +60,24 @@
                         <ul>
                         </ul>
                     </p>
-                    <p>Shostakovich, Festive Overture
+                    <p>Borodin, Polovtsian Dances
                         <ul>
-                            <li><a href="bowings/2016-2017/October_2016/FestiveOverture_VlnI.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2016-2017/October_2016/FestiveOverture_VlnII.pdf" target="_blank">Violin II</a></li>
+                            <li><a href="bowings/2017-2018/October_2017/Borodin_PolovtsianDances_VlnI.pdf" target="_blank">Violin I</a></li>
                         </ul>
                     </p>
                     <p>
-                        Gliere, Russian Sailors Dance
+                        Saint Saens, Danse Macabre
                         <ul>
-                            <li><a href="bowings/2016-2017/October_2016/RussianSailorsDance_VlnI.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2016-2017/October_2016/RussianSailorsDance_VlnII.pdf" target="_blank">Violin II</a></li>
+                            <li><a href="bowings/2017-2018/October_2017/SaintSaens_DanseMacabre_VlnI.pdf" target="_blank">Violin I</a></li>
                         </ul>
                     </p>
-                    <p>Liadov, Eight Russian Folk Songs</p>
+                    <p>Adams, Chairman Dances</p>
                         <ul>
-                            <li><a href="bowings/2016-2017/October_2016/RussianFolkSongs_VlnI.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2016-2017/October_2016/RussianFolkSongs_VlnII.pdf" target="_blank">Violin II</a></li>
+                            <li><a href="bowings/2017-2018/October_2017/Adams_ChairmanDances_VlnI.pdf" target="_blank">Violin I</a></li>
                         </ul>
-                    <p>Rimsky-Korsakov, Scheherazade
+                    <p>Grieg, Symphonic Dances
                         <ul>
-                            <li><a href="bowings/2016-2017/October_2016/Scheherazade_VlnI.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2016-2017/October_2016/Scheherazade_VlnII.pdf" target="_blank">Violin II</a></li>
+                            <li><a href="bowings/2017-2018/October_2017/Grieg_SymphonicDances_VlnI.pdf" target="_blank">Violin I</a></li>
                         </ul>
                     </p>
                 </div>
@@ -90,135 +86,45 @@
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'holiday');" />
-                    Holiday Concert
+                    Holiday Spectacular
                 </legend>
                 <div id="holiday" style="display:none;">
                     <p><span class="title">Holiday Concert Notes:</span></p>
-                    <p>
-                        <span style="font-style:italic">A Canadian Brass Christmas</span>, Luther Henderson
-                    </p>
-                    <p>
-                        <span style="font-style:italic">Nutcracker</span>, P. Tchaikovsky
-                        <ul>
-                            <li><span style="font-style:italic">Trepak</span></li>
-                            <li><span style="font-style:italic">Waltz of the Flowers</span></li>
-                        </ul>
-                    </p>
-                    <p>
-                        <span style="font-style:italic">Greensleeves</span>, R. Vaughn-Williams, arr. A. Reed
-                    </p>
-                    <p>
-                        <span style="font-style:italic">A Christmas Festival</span>, Leroy Anderson
-                    </p>
-                    <p>
-                        <span style="font-style:italic">Jingle Bells</span>, David Willcocks
-                    </p>
-                    <p>
-                        <span style="font-style:italic">Silent Night</span>, arr. Peter Hope
-                    </p>
-                    <p>
-                        <span style="font-style:italic">Hark the Herald</span>, arr. Peter Hope
-                    </p>
-                    <p>
-                        <span style="font-style:italic">O Holy Night</span>, Adolphe Adam
-                    </p>
-                    <p>
-                        <span style="font-style:italic">Three Kings of Orient</span>, John Rutter
-                    </p>
-                    <p>
-                        <span style="font-style:italic">Oh Come All Ye Faithful</span>, arr. Peter Hope
-                    </p>
-                    <p>
-                        <span style="font-style:italic">We Wish You a Merry Christmas</span>, Traditional
-                    </p>
-                    <p>
-                        <span style="font-style:italic">Joy to the World</span>, Traditional
-                    </p>
-                    <p><span style="font-style:italic">Sleigh Ride</span>, Leroy Anderson</p>
                 </div>
             </fieldset>
             <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical3');" />
-                    Classical Concert II, Courage and Freedom
+                    Classical Concert II, Unfamiliar Romance
                 </legend>
                 <div id="classical3" style="display:none;">
                     <p><span class="title">Classical II Notes:</span></p>
-                    <p>Sibelius, Finlandia</p>
-                    <ul></ul>
-                    <p>Bizet, Carmen</p>
-                    <ul></ul>
-                    <p>Ravel, Mother Goose</p>
-                    <ul></ul>
-                    <p>Stravinsky, Firebird</p>
-                    <ul></ul>
                 </div>
             </fieldset>
             <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical4');" />
-                    Classical Concert III, Musical Titans
+                    Classical Concert III, Dark Dreams
                 </legend>
                 <div id="classical4" style="display:none;">
                     <p><span class="title">Classical III Notes:</span></p>
-                    <p>
-                        Mozart, Magic Flute Overture
-                        <ul>
-                            <li><a href="bowings/2016-2017/April_2017/Mozart_MagicFlute_cello.pdf" target="_blank">Cello</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Mozart, 3rd Horn Concerto
-                        <ul>
-                            <li><a href="bowings/2016-2017/April_2017/Mozart_HornConcerto3_cello.pdf" target="_blank">Cello</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Mahler, Symphony No. 1
-                        <ul>
-                            <li><a href="bowings/2016-2017/April_2017/Mahler1_vlnI.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2016-2017/April_2017/Mahler1_vlnII.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2016-2017/April_2017/Mahler1_cello.pdf" target="_blank">Cello</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Link to <a href="http://www.oregonmahlerfestival.org/German/Glossary%20of%20Terminology%20from%20Mahler%20Sym%20No.%201%20and%20Songs%20of%20a%20Wayfarer1.pdf" target="_blank">
-                            Mahler translations
-                        </a> from the Oregon Mahler Festival.
-                    </p>
                 </div>
             </fieldset>
             <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical5');" />
-                    Classical Pops
+                    Symphonic Journeys
                 </legend>
                 <div id="classical5" style="display:none;">
                     <p><span class="title">Classical Pops Notes:</span></p>
-                    <p>Copland, Hoe Down</p>
-                    <ul></ul>
-                    <p>Rossini, William Tell Overture</p>
-                    <ul></ul>
-                    <p>Liszt, Hungarian Rhapsodie No. 2
-                        <ul>
-                            <li><a href="bowings/2016-2017/June_2017/Liszt_vln1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2016-2017/June_2017/Liszt_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <ul></ul>
-                    <p>Tchaikovsky, 1812 Finale</p>
-                    <ul></ul>
-                    <p>Williams, Harry Potter Symphonic Suite</p>
-                    <ul></ul>
-                    <p>Whitney, Lord of the Rings: Fellowship of the Rings</p>
-                    <ul></ul>
-                    <p>Williams, Star Wars Suite</p>
-                    <ul></ul>
                 </div>
             </fieldset>
+            <p>
+                <span style="font-size:x-small">**Updated 10/15/2017.</span>
+            </p>
         </div>
     </div>
 
