@@ -8,6 +8,6 @@
     <concert number="5" begin="2018-04-09" end="2018-06-03"/>
   </concerts>
   <support>
-    <radio show="1"/>
+    <radio show="0" end="2017-10-20"/>
   </support>
 </config>
