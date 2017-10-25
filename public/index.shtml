@@ -18,24 +18,21 @@
             <!--#include file="_menu.html" -->
         </div>
         <div class="content">
-            <p><font size="+2" face="Arial">2017 - 2018 Season</font></p>
+            <p><font size="+2" face="Arial">Friends of the Rainier Symphony</font></p>
             <p>
-                Greetings friends of the Rainier Symphony! After a short summer off, we're excited to return for another
-                season of wonderful programs you will definitely enjoy. This season will bring you compositions from many
-                musical generations: young and old. Each concert is designed to introduce pieces and composers that may be
-                unfamiliar to you. Fear not, these "new" pieces will be accompanied by some of the most popular symphonic
-                works in the orchestral repertoire. Join us to hear your most beloved classical themes, and you may leave
-                each concert with a new favorite.
+                Our 2017-18 season has started off with a wonderful opening concert weekend. As we move on to our next 
+                concert cycle, I want to share with you what you can expect to hear in our upcoming Holiday Spectacular. Along 
+                with some of the most beloved holiday themes and Christmas tunes, we'll be performing music that captures the 
+                spirit of changing seasons, and the nostalgia that often accompanies this time of year. Please join us for a 
+                concert weekend filled with Russian Christmas music, European waltzes, medleys from Christmas movies, seasonal 
+                sacred music, and a sing-along. 
             </p>
             <p>
-                Also, as a gesture of gratitude to our ardent patrons, we have reduced the cost of season tickets in order
-                to increase the discount to subscribers relative to the price of individually purchased tickets. If you're already
-                a season ticket holder, please enjoy this lower ticket price, and thank you for your support. If you're not yet
-                a season ticket holder, it's not too late!  You can find information on our entire concert season on the website, as
-                well as information on purchasing season tickets. We know there are lots of ways to spend your weekends, and we're
-                grateful you spend our concert weekends with us!
+                We're looking forward to spending some of the holiday season with you. Thank you for making Rainier 
+                Symphony part of your annual traditions. 
             </p>
-
+            <p>Warm wishes,</p>
+            <p>Jeff</p>
             <p><font size="+2" face="Arial">Next Concert:</font></p>
             <div id="nextConcert" ></div>
             <div id="nextConcertBlurb">
