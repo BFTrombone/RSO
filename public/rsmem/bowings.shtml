@@ -47,7 +47,8 @@
             <div class="title">Bowings</div>
             <p><h4>2017-2018 Season</h4></p>
             <p>
-                Bowings for all works in each concert will be posted here as they become available.
+                Bowings for all works in each concert will be posted here as they become available. Those files marked as 'large'
+                will take longer to download, particularly on slower connections. Be patient!
             </p>
             <fieldset>
                 <legend>
@@ -166,6 +167,27 @@
                 </legend>
                 <div id="classical4" style="display:none;">
                     <p><span class="title">Classical III Notes:</span></p>
+                    <p>
+                        Berlioz, Hungarian March
+                        <ul>
+                            <li><a href="bowings/2017-2018/April_2018/HungarianMarch_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2017-2018/April_2018/HungarianMarch_cello.pdf" target="_blank">Cello</a></li>
+                        </ul>
+                    </p>
+                    <p>
+                        Mussorgsky, Night on the Bare Mountain
+                        <ul>
+                            <li><a href="bowings/2017-2018/April_2018/BaldMountain_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2017-2018/April_2018/BaldMountain_cello.pdf" target="_blank">Cello</a></li>
+                        </ul>
+                    </p>
+                    <p>
+                        Berlioz, Symphonie Fantastique
+                        <ul>
+                            <li><a href="bowings/2017-2018/April_2018/SymphonieFantastique_vln1.pdf" target="_blank">Violin I</a> (large file)</li>
+                            <li><a href="bowings/2017-2018/April_2018/SymphonieFantastique_cello.pdf" target="_blank">Cello</a> (large file)</li>
+                        </ul>
+                    </p>
                 </div>
             </fieldset>
             <br />
@@ -179,7 +201,7 @@
                 </div>
             </fieldset>
             <p>
-                <span style="font-size:x-small">**Updated 10/15/2017.</span>
+                <span style="font-size:x-small">** Updated 3/21/2018.</span>
             </p>
         </div>
     </div>
