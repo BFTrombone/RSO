@@ -25,7 +25,7 @@
             var icon = (isShowing == true ? "icon_PlusBox" : "icon_MinusBox");
 
             // hardcoding the root path
-            button.setAttribute("src", "Images/" + icon + ".gif");
+            button.setAttribute("src", "Images/" + icon + ".png");
 
             if (isShowing == true)
                 container.hide();
@@ -65,7 +65,7 @@
             </p>
             <fieldset>
                 <legend>
-                    <img class="showHideButton" src="./Images/Icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'season20142015');" />
+                    <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'season20142015');" />
                     Season 2014 - 2015
                 </legend>
                 <div id="season20142015" style="display:none;">
@@ -85,7 +85,7 @@
             <br />
             <fieldset>
                 <legend>
-                    <img class="showHideButton" src="./Images/Icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'season20152016');" />
+                    <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'season20152016');" />
                     Season 2015 - 2016
                 </legend>
                 <div id="season20152016" style="display:none;">
@@ -106,7 +106,7 @@
             <br />
             <fieldset>
                 <legend>
-                    <img class="showHideButton" src="./Images/Icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'season20162017');" />
+                    <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'season20162017');" />
                     Season 2016 - 2017
                 </legend>
                 <div id="season20162017" style="display:none;">
@@ -126,15 +126,17 @@
             <br />
             <fieldset>
                 <legend>
-                    <img class="showHideButton" src="./Images/Icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'season20172018');" />
+                    <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'season20172018');" />
                     Season 2017 - 2018
                 </legend>
                 <div id="season20172018" style="display:none;">
                     <ul>
                         <li><a href="http://rs.junctionit.com/_media/2017-10-21_orchestral_dances_sat.zip">Orchestral Dances 10/21/2017</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2017-10-21_orchestral_dances_sun.zip">Orchestral Dances 10/22/2017</a></li>
+                        <li><a href="http://rs.junctionit.com/_media/2017-10-22_orchestral_dances_sun.zip">Orchestral Dances 10/22/2017</a></li>
                         <li><a href="http://rs.junctionit.com/_media/2017-12-16_holiday_spectacular_sat.zip">Holiday Spectacular 12/16/2017</a></li>
                         <li><a href="http://rs.junctionit.com/_media/2017-12-17_holiday_spectacular_sun.zip">Holiday Spectacular 12/17/2017</a></li>
+                        <li><a href="http://rs.junctionit.com/_media/2018-02-24_unfamiliar_romance_sat.zip">Unfamiliar Romance 2/24/2018</a></li>
+                        <li><a href="http://rs.junctionit.com/_media/2018-02-25_unfamiliar_romance_sun.zip">Unfamiliar Romance 2/25/2018</a></li>
                     </ul>
                 </div>
             </fieldset>

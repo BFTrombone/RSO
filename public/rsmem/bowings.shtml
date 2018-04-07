@@ -25,7 +25,7 @@
             var icon = (isShowing == true ? "icon_PlusBox" : "icon_MinusBox");
 
             // hardcoding the root path
-            button.setAttribute("src", "Images/" + icon + ".gif");
+            button.setAttribute("src", "Images/" + icon + ".png");
 
             if (isShowing == true)
                 container.hide();
@@ -52,7 +52,7 @@
             </p>
             <fieldset>
                 <legend>
-                    <img class="showHideButton" src="./Images/Icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical1');" />
+                    <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'classical1');" />
                     Classical Concert I, Orchestral Dances
                 </legend>
                 <div id="classical1" style="display:none;">
@@ -86,7 +86,7 @@
             <br/>
             <fieldset>
                 <legend>
-                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'holiday');" />
+                    <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'holiday');" />
                     Holiday Spectacular
                 </legend>
                 <div id="holiday" style="display:none;">
@@ -127,7 +127,7 @@
             <br />
             <fieldset>
                 <legend>
-                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical3');" />
+                    <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'classical3');" />
                     Classical Concert II, Unfamiliar Romance
                 </legend>
                 <div id="classical3" style="display:none;">
@@ -162,7 +162,7 @@
             <br />
             <fieldset>
                 <legend>
-                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical4');" />
+                    <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'classical4');" />
                     Classical Concert III, Dark Dreams
                 </legend>
                 <div id="classical4" style="display:none;">
@@ -203,7 +203,7 @@
             <br />
             <fieldset>
                 <legend>
-                    <img class="showHideButton" src="./Images/icon_PlusBox.gif" onclick="ExpandCollapseContainer(this, 'classical5');" />
+                    <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'classical5');" />
                     Symphonic Journeys
                 </legend>
                 <div id="classical5" style="display:none;">
