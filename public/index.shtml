@@ -20,29 +20,22 @@
         <div class="content">
             <p><font size="+2" face="Arial">Rainier Symphony Friends and Families</font></p>
             <p>
-                I'm excited to present our final Classics Concert of the season for you and your loved ones. What a wonderful year it's
-                been, full of new music: for both the orchestra and our audiences. This next cycle will offer some refreshingly familiar
-                music for you to breathe in. Our concerts on April 7th and 8th are entitled Dark Dreams, and will feature the music of Berlioz
-                and Mussorgsky. Each of the pieces on this concert has a connection to something mystical, mythical, and metaphysical.
+                Thank you for a wonderful season of music. We have had a year full of lovely new music alongside some of the 
+                repertoire's most beloved pieces. Having you as a part of our music community adds a tremendous amount to our shared 
+                experience as an orchestra: thank you, truly, for your support.
             </p>
             <p>
-                Berlioz's <span style="font-style:italic">Hungarian March</span> is from his larger work, <span style="font-style:italic">The 
-                Damnationof Faust</span>, which is modeled after an oratorio, but that was referred to by Berlioz as a "legende dramatique." Next, we have
-                Mussorgsky's <span style="font-style:italic">Night on the Bare Mountain</span> which was originally titled "St. John's even on Bald
-                Mountain". This short tone poem is meant to depict the legend of a witches sabbath that occurred on St. John's Eve - the same
-                night that Mussorgsky finished the composition.
+                On June 2nd and 3rd, we'll be wrapping up the 2017-18 concert season with a musical jaunt around the globe. Starting in 
+                Germany, we travel to Poland, France, Czechoslovakia, Hungary, Italy, England, Vietnam, Russia, Vanuatu, New York, and 
+                South Carolina. Please come along on our journey as we march through lyrical melodies, dance rhythms, tales of love, the 
+                deep south, and an island paradise.
             </p>
             <p>
-                Our program will conclude with Berlioz's lavish, romantic, and personal journey of love, lust, and altered states.
-                His <span style="font-style:italic">Symphonie Fantastique</span> was a ground-breaking undertaking in programmatic composition,
-                that told the story of a love-lorn man who, after accepting unrequited love from his heart's desire, disappears into an opium-induced
-                slumber and has dreams that tell a fantastic tale of romance, majesty, betrayal, murder, justice, and another witches sabbath.
+                Also, stay tuned for information on next year's concert season. Much of this year's program was built around the
+                orchestra &quot;dancing&quot;. Next year's program will involve collaborations with vocal ensembles and soloists as we
+                build a season around the orchestra &quot;singing&quot;.
             </p>
-            <p>
-                I hope you are able to join us for our unworldly conclusion to our year of Classics Concerts. Also, please check back in for information
-                regarding our June Pop's Concert, which will be a musical journey through many different European and American cultures and locations.
-            </p>
-            <p>Cheers,</p>
+            <p>Thanks again for your support of the Rainier Symphony, it means so much to us.</p>
             <p>Jeff</p>
             <p><font size="+2" face="Arial">Next Concert:</font></p>
             <div id="nextConcert"></div>
