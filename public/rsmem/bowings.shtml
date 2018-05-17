@@ -58,10 +58,10 @@
                 <div id="classical1" style="display:none;">
                     <p><span class="title">Classical I Notes:</span></p>
                     <p>
-                        <ul>
-                        </ul>
+                        <ul></ul>
                     </p>
-                    <p>Borodin, Polovtsian Dances
+                    <p>
+                        Borodin, Polovtsian Dances
                         <ul>
                             <li><a href="bowings/2017-2018/October_2017/Borodin_PolovtsianDances_VlnI.pdf" target="_blank">Violin I</a></li>
                         </ul>
@@ -73,17 +73,18 @@
                         </ul>
                     </p>
                     <p>Adams, Chairman Dances</p>
-                        <ul>
-                            <li><a href="bowings/2017-2018/October_2017/Adams_ChairmanDances_VlnI.pdf" target="_blank">Violin I</a></li>
-                        </ul>
-                    <p>Grieg, Symphonic Dances
+                    <ul>
+                        <li><a href="bowings/2017-2018/October_2017/Adams_ChairmanDances_VlnI.pdf" target="_blank">Violin I</a></li>
+                    </ul>
+                    <p>
+                        Grieg, Symphonic Dances
                         <ul>
                             <li><a href="bowings/2017-2018/October_2017/Grieg_SymphonicDances_VlnI.pdf" target="_blank">Violin I</a></li>
                         </ul>
                     </p>
                 </div>
             </fieldset>
-            <br/>
+            <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'holiday');" />
@@ -212,6 +213,7 @@
                         Brahms, Academic Festival Overture
                         <ul>
                             <li><a href="bowings/2017-2018/June_2018/AcademicFestival_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2017-2018/June_2018/AcademicFestival_vla.pdf" target="_blank">Viola</a></li>
                             <li><a href="bowings/2017-2018/June_2018/AcademicFestival_cello.pdf" target="_blank">Cello</a></li>
                         </ul>
                     </p>
@@ -219,6 +221,7 @@
                         Puccini, Cristantemi
                         <ul>
                             <li><a href="bowings/2017-2018/June_2018/Cristantemi_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2017-2018/June_2018/Cristantemi_vla.pdf" target="_blank">Viola</a></li>
                             <li><a href="bowings/2017-2018/June_2018/Crisantemi_cello.pdf" target="_blank">Cello</a></li>
                         </ul>
                     </p>
@@ -226,6 +229,7 @@
                         Debussy, Ballet from <span style="font-style:italic;">Petit Suite</span>
                         <ul>
                             <li><a href="bowings/2017-2018/June_2018/Debussy_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2017-2018/June_2018/Debussy_vla.pdf" target="_blank">Viola</a></li>
                             <li><a href="bowings/2017-2018/June_2018/Debussy_cello.pdf" target="_blank">Cello</a></li>
                         </ul>
                     </p>
@@ -233,12 +237,14 @@
                         Dvorak, Slavonic Dances, No. 1 and 8
                         <ul>
                             <li><a href="bowings/2017-2018/June_2018/Dvorak_SlavonicDances_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2017-2018/June_2018/Dvorak_SlavonicDances_vla.pdf" target="_blank">Viola</a></li>
                         </ul>
                     </p>
                     <p>
                         Elgar, Imperial March
                         <ul>
                             <li><a href="bowings/2017-2018/June_2018/Elgar_ImperialMarch_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2017-2018/June_2018/Elgar_ImperialMarch_vla.pdf" target="_blank">Viola</a></li>
                             <li><a href="bowings/2017-2018/June_2018/Elgar_ImperialMarch_cello.pdf" target="_blank">Cello</a></li>
                         </ul>
                     </p>
@@ -246,12 +252,14 @@
                         Bock, <span style="font-style:italic;">Fiddler on the Roof</span> arr. Rapley
                         <ul>
                             <li><a href="bowings/2017-2018/June_2018/Fiddler_on_the_Roof_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2017-2018/June_2018/Fiddler_on_the_Roof_vla.pdf" target="_blank">Viola</a></li>
                         </ul>
                     </p>
                     <p>
                         Gershwin, <span style="font-style:italic;">Porgy and Bess</span>
                         <ul>
                             <li><a href="bowings/2017-2018/June_2018/Porgy_and_Bess_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2017-2018/June_2018/Porgy_and_Bess_vla.pdf" target="_blank">Viola</a></li>
                             <li><a href="bowings/2017-2018/June_2018/Porgy_and_Bess_cello.pdf" target="_blank">Cello</a></li>
                         </ul>
                     </p>
@@ -259,6 +267,7 @@
                         Rogers &amp; Hammerstein, <span style="font-style:italic;">South Pacific</span>
                         <ul>
                             <li><a href="bowings/2017-2018/June_2018/South_Pacific_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2017-2018/June_2018/South_Pacific_vla.pdf" target="_blank">Viola</a></li>
                         </ul>
                     </p>
                 </div>
