@@ -28,16 +28,8 @@
             <!--#include file="_menu.html" -->
         </div>
         <div class="content">
-            <div class="title">Rainier Symphony 2017-2018 Season</div>
+            <div class="title">Rainier Symphony 2018-2019 Season</div>
             <br />
-            <!--<p>Download art for the 2015 - 2016 season
-            <ul>
-                <li><a href="docs/concert_art/2015_2016/2015_2016_RS_Season.pdf" target="_blank">Full Poster</a></li>
-                <li><a href="docs/concert_art/2015_2016/2015_2016_3x5_TouchCard.pdf" target="_blank">3 x 5 Touch Card</a></li>
-            </ul>
-            </p>
-            <br />
-                -->
             <hr />
             <div id="concert1"></div>
             <hr />

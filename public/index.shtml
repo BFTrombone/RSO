@@ -25,19 +25,13 @@
                 experience as an orchestra: thank you, truly, for your support.
             </p>
             <p>
-                On June 2nd and 3rd, we'll be wrapping up the 2017-18 concert season with a musical jaunt around the globe. Starting in 
-                Germany, we travel to Poland, France, Czechoslovakia, Hungary, Italy, England, Vietnam, Russia, Vanuatu, New York, and 
-                South Carolina. Please come along on our journey as we march through lyrical melodies, dance rhythms, tales of love, the 
-                deep south, and an island paradise.
-            </p>
-            <p>
-                Also, stay tuned for information on next year's concert season. Much of this year's program was built around the
+                Stay tuned for information on next year's concert season. Much of this year's program was built around the
                 orchestra &quot;dancing&quot;. Next year's program will involve collaborations with vocal ensembles and soloists as we
                 build a season around the orchestra &quot;singing&quot;.
             </p>
             <p>Thanks again for your support of the Rainier Symphony, it means so much to us.</p>
             <p>Jeff</p>
-            <p><font size="+2" face="Arial">Next Concert:</font></p>
+            <!--<p><font size="+2" face="Arial">Next Concert:</font></p>-->
             <div id="nextConcert"></div>
             <div id="nextConcertBlurb">
             </div>
