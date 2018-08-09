@@ -31,13 +31,13 @@
             </p>
             <p>Thanks again for your support of the Rainier Symphony, it means so much to us.</p>
             <p>Jeff</p>
-            <!--<p><font size="+2" face="Arial">Next Concert:</font></p>-->
+            <p><font size="+2" face="Arial">Next Concert:</font></p>
             <div id="nextConcert"></div>
             <div id="nextConcertBlurb">
             </div>
 
             <!--<ul>
-    <li><a href="calendar.shtml">2016 - 2017 Events</a></li>
+    <li><a href="calendar.shtml">2018 - 2019 Events</a></li>
     <li><a href="tickets.shtml">Ticket Information</a></li>
     </ul>-->
             <hr />
