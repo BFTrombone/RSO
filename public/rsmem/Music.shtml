@@ -47,10 +47,12 @@
                 music.  Remember to erase any changes on the individual part, and never use
                 pen.
             </p>
-            <p>
-                <b>Orchestra Librarian:</b> Diane Lange Jones<br/>
-                <b>Phone:</b> (206) 246-7886	<b>Email:</b> <a href="mailto:Diane@rainiersymphony.org">diane@rainiersymphony.org</a>
-            </p>
+            <table style="style="border-width:0; border-color: transparent; border="0">
+                <tr><td><b>Orchestra Librarian:</b></td><td>Diane Lange Jones</td></tr>
+                <tr><td>&nbsp;&nbsp;<b>Home:</b></td><td>206-246-7886</td></tr>
+                <tr><td>&nbsp;&nbsp;<b>Cell:</b></td><td>206-660-8202</td></tr>
+                <tr><td>&nbsp;&nbsp;<b>Email: </b></td><td><a href="mailto:dinnylj@aol.org">dinnylj@aol.org</a></td></tr>
+            </table>
         </div>
     </div>
 </body>
