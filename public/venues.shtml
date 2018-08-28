@@ -16,47 +16,47 @@
     <div class="nav" id="menu">
         <!--#include file="_menu.html" -->
     </div>
-<div class="content">
+    <div class="content">
 
-<div class="title">Rainier Symphony Performance Venues</div><br>
+        <div class="title">Rainier Symphony Performance Venues</div><br />
 
-<h4>Foster Performing Arts Center</h4><br>
-Address:<br>
-4242 S 144th St<br>
-Tukwila, WA 98168-4130<br>
-    <a href="http://www.mapquest.com/maps/map.adp?searchtype=address&country=US&addtohistory=&searchtab=home&formtype=address&popflag=0&latitude=&longitude=&name=&phone=&level=&cat=&address=4242+South+144th+Street&city=tukwila&state=wa&zipcode=" target="_blank">Click here for map.</a><br />
-    <a href="DrivingDirectionstoFosterPAC.pdf" target="_blank">Driving Directions to Foster Performing Arts Center</a><br>
-<br />
+        <h4>Foster Performing Arts Center</h4><br />
+        Address:<br />
+        4242 S 144th St<br />
+        Tukwila, WA 98168-4130<br />
+        <a href="https://www.bing.com/search?q=4242+S+144th+St++Tukwila+%7C+WA+98168&form=EDNTHT&mkt=en-us&httpsmsn=1&refig=75a517a092d14de6fa397f778fae3f76&sp=-1&pq=4242+s+144th+st+tukwila+%7C+wa+98168&sc=1-34&qs=n&sk=&cvid=75a517a092d14de6fa397f778fae3f76" target="_blank">Click here for map.</a><br />
+        <a href="DrivingDirectionstoFosterPAC.pdf" target="_blank">Driving Directions to Foster Performing Arts Center</a><br />
+        <br />
 
-    <img src="http://www.rainiersymphony.org/images/FHS_PAC.gif" style="border:4px solid maroon" align="right" style="margin-left:15px;" />
-    <p>
-        The Foster Performing Arts Center is a true gem and asset for Tukwila and South King County. Rainier Symphony
-        is proud to rehearse weekly in this hall in addition to performing there regularly throughout the year.
-    </p>
-    <p>
-        This 500 seat performing arts center has great acoustics and provides a relaxed environment to enjoy our music.
-    </p>
-    <br/>
-    <br/>
-    <!--<h4>Renton IKEA Performing Arts Center</h4><br />
+        <img src="http://www.rainiersymphony.org/images/FHS_PAC.gif" style="border:4px solid maroon" align="right" style="margin-left:15px;" />
+        <p>
+            The Foster Performing Arts Center is a true gem and asset for Tukwila and South King County. Rainier Symphony
+            is proud to rehearse weekly in this hall in addition to performing there regularly throughout the year.
+        </p>
+        <p>
+            This 500 seat performing arts center has great acoustics and provides a relaxed environment to enjoy our music.
+        </p>
+        <br />
+        <br />
+        <!--<h4>Renton IKEA Performing Arts Center</h4><br />
     Address:<br />
     400 S 2nd St<br />
     Renton, WA 98057<br />
-    <a href="http://www.mapquest.com/maps/map.adp?searchtype=address&country=US&addtohistory=&searchtab=home&formtype=address&popflag=0&latitude=&longitude=&name=&phone=&level=&cat=&address=400+South+2nd+Street&city=renton&state=wa&zipcode=" target="_blank">Click here for map.</a><br />
+    <a href="https://www.bing.com/search?q=400+s+2nd+st+renton%2C+wa+98057&form=EDGEAR&qs=PF&cvid=6252ad58513549a480a02f8428e983a3&cc=US&setlang=en-US&elv=AXK1c4IvZoNqPoPnS%21QRLOMlBy49RL3CdmEpAPhGD2hhaxov5moaquEvsoxrPqvPWaGwFkwnsZMVgdluRszjLclIpF%21KsbLTWqdwOLiwxCBD" target="_blank">Click here for map.</a><br />
     <a href="DrivingDirectionstoRentonIPAC.pdf" target="_blank">Driving Directions to Renton IKEA Performing Arts Center</a><br />
     <br />
 
     <img src="http://www.rainiersymphony.org/images/IKEA_PAC.jpeg" style="border:4px solid maroon" ;=; align="right" style="margin-left:15px;" />
 
-    The Rainier Symphony has the distinction of being the first symphony orchestra to perform in the Renton IKEA Performing 
-    Arts Center. This wonderful addition to South King County, designed by Northwest Architectural Co., and developed with the 
-    support and funding of the community is a showpiece for the city of Renton. The center also incorporates local history as 
-    three Renton High School alumni placed an original brick cornerstone from the 1911 Renton High building on the foundation 
+    The Rainier Symphony has the distinction of being the first symphony orchestra to perform in the Renton IKEA Performing
+    Arts Center. This wonderful addition to South King County, designed by Northwest Architectural Co., and developed with the
+    support and funding of the community is a showpiece for the city of Renton. The center also incorporates local history as
+    three Renton High School alumni placed an original brick cornerstone from the 1911 Renton High building on the foundation
     of the new performing arts center.<br /><br />
     <br/>
     <br/>-->
 
-</div>
+    </div>
 
 
 </div>
