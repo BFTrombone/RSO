@@ -115,6 +115,11 @@
                 <div id="holiday" style="display:none;">
                     <p><span class="title">Holiday Concert Notes:</span></p>
                     <p>
+                        <ul>
+                            <li>NOTE: Viola and Cello parts are each a single PDF containing all pieces in the concert, and can be found in the section labeled 'Combined'. As such, they are large and will take extra time to download.</li>
+                        </ul>
+                    </p>
+                    <p>
                         A Christmas Festival
                         <ul>
                             <li><a href="bowings/2018-2019/December_2018/AChrstmasFestival_Vn1.pdf" target="_blank">Violin I</a></li>
@@ -180,6 +185,13 @@
                             <li><a href="bowings/2018-2019/December_2018/WinterWonderland_Vn1.pdf" target="_blank">Violin I</a></li>
                         </ul>
                     </p>
+                    <p>
+                        Combined
+                        <ul>
+                            <li><a href="bowings/2018-2019/December_2018/Christmas2018_Viola.pdf" target="_blank">Viola</a></li>
+                            <li><a href="bowings/2018-2019/December_2018/Christmas2018_Cello.pdf" target="_blank">Cello</a></li>
+                        </ul>
+                    </p>
 
                 </div>
             </fieldset>
@@ -214,7 +226,7 @@
                 </div>
             </fieldset>
             <p>
-                <span style="font-size:x-small">** Updated 8/18/2018.</span>
+                <span style="font-size:x-small">** Updated 10/31/2018.</span>
             </p>
         </div>
     </div>
