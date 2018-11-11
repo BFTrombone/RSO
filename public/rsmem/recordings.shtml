@@ -49,18 +49,18 @@
                 Concert Recordings
             </div>
             <p>
-                Recordings of the Rainier Symphony are strictly for use by Rainier Symphony members. All others are 
+                Recordings of the Rainier Symphony are strictly for use by Rainier Symphony members. All others are
                 prohibited from accessing this website.
             </p>
             <p>
-                Recordings are in uncompressed .WAV format and saved inside a ZIP file. To download a concert, click 
-                the ZIP file for the desired concert. Downloads may take ten minutes or more depending on your 
-                connection. Once the ZIP file has finished downloading to your computer, use a ZIP file utility to 
-                extract the WAV files for the concert. If you need to install a ZIP utility on your computer, you can 
-                use <a href="https://ninite.com/" target="_blank">ninite.com</a>. Select PeaZip and follow the instructions to install.                
+                Recordings are in uncompressed .WAV format and saved inside a ZIP file. To download a concert, click
+                the ZIP file for the desired concert. Downloads may take ten minutes or more depending on your
+                connection. Once the ZIP file has finished downloading to your computer, use a ZIP file utility to
+                extract the WAV files for the concert. If you need to install a ZIP utility on your computer, you can
+                use <a href="https://ninite.com/" target="_blank">ninite.com</a>. Select PeaZip and follow the instructions to install.
             </p>
             <p>
-                NOTE: Video files are much larger than the audio files e.g. the 12/12/2014 Holiday Concert Video is 
+                NOTE: Video files are much larger than the audio files e.g. the 12/12/2014 Holiday Concert Video is
                 over 2 GB. Be aware of this when downloading these.
             </p>
             <fieldset>
@@ -137,6 +137,19 @@
                         <li><a href="http://rs.junctionit.com/_media/2017-12-17_holiday_spectacular_sun.zip">Holiday Spectacular 12/17/2017</a></li>
                         <li><a href="http://rs.junctionit.com/_media/2018-02-24_unfamiliar_romance_sat.zip">Unfamiliar Romance 2/24/2018</a></li>
                         <li><a href="http://rs.junctionit.com/_media/2018-02-25_unfamiliar_romance_sun.zip">Unfamiliar Romance 2/25/2018</a></li>
+                    </ul>
+                </div>
+            </fieldset>
+            <br/>
+            <fieldset>
+                <legend>
+                    <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'season20182019');" />
+                    Season 2018 - 2019
+                </legend>
+                <div id="season20182019" style="display:none;">
+                    <ul>
+                        <li><a href="recordings/2018-2019/2018-10-20_excerpts_of_americana_sat.zip">Excerpts of Americana 10/20/2018</a></li>
+                        <li><a href="recordings/2018-2019/2018-10-21_excerpts_of_americana_sun.zip">Excerpts of Americana 10/21/2018</a></li>
                     </ul>
                 </div>
             </fieldset>
