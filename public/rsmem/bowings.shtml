@@ -213,13 +213,20 @@
                     Classical Concert II, Poems: Prophetic and Pastoral
                 </legend>
                 <div id="classical3" style="display:none;">
-                    <p><span class="title">Classical II Notes:</span></p>
+                    <p><span class="title">Classical II Notes:</span>
+                       <ul>
+                           <li>The Shostakovich cello part is not in strict page order.</li>
+                           <li>The Vaughan Williams cello part is in reverse page order.</li>
+                           <li>The Les Preludes cello part is password protected and will be replaced with an open one as soon as we can get it.</li>
+                       </ul>
+                    </p>
                     <p>
                         Shostakovich, October, Op. 131
                         <ul>
                             <li><a href="bowings/2018-2019/February_2019/Shostakovich_Op131_vln1.pdf" target="_blank">Violin I</a> (large)</li>
                             <li><a href="bowings/2018-2019/February_2019/Shostakovich_Op131_vln2.pdf" target="_blank">Violin II</a></li>
                             <li><a href="https://www.dropbox.com/s/r95bvqhgg45nqgk/October.pdf?dl=0" target="_blank">Viola</a> (Dropbox)</li>
+                            <li><a href="bowings/2018-2019/February_2019/Shostakovich_Op131_cello.pdf" target="_blank">Cello</a></li>
                         </ul>
                     </p>
                     <p>
@@ -227,12 +234,14 @@
                         <ul>
                             <li><a href="bowings/2018-2019/February_2019/Smetana_Moldau_vln2.pdf" target="_blank">Violin II</a></li>
                             <li><a href="https://www.dropbox.com/s/kqcshjs6m999uko/Moldau.pdf?dl=0" target="_blank">Viola</a> (Dropbox)</li>
+                            <li><a href="bowings/2018-2019/February_2019/Smetana_Moldau_cello.pdf" target="_blank">Cello</a></li>
                         </ul>
                     </p>
                     <p>
                         Liszt, Les Preludes
                         <ul>
                             <li><a href="bowings/2018-2019/February_2019/Liszt_LesPreludes_vln2.pdf" target="_blank">Violin II</a></li>
+                            <li><a href="bowings/2018-2019/February_2019/Liszt_LesPreludes_cello.pdf" target="_blank">Cello</a></li>
                         </ul>
                     </p>
                     <p>
@@ -241,6 +250,7 @@
                             <li><a href="bowings/2018-2019/February_2019/VaughanWilliams_OboeConcerto_vln1.pdf" target="_blank">Violin I</a> (large)</li>
                             <li><a href="bowings/2018-2019/February_2019/VaughanWilliams_OboeConcerto_vln2.pdf" target="_blank">Violin II</a></li>
                             <li><a href="https://www.dropbox.com/s/97hni0lnz7wwnd7/Scan%20Jan%2020,%202019%20at%205.32%20PM.pdf?dl=0" target="_blank">Viola</a> (Dropbox)</li>
+                            <li><a href="bowings/2018-2019/February_2019/VaughanWilliams_OboeConcerto_cello.pdf" target="_blank">Cello</a></li>
                         </ul>
                     </p>
                 </div>
