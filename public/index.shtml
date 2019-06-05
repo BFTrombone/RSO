@@ -19,9 +19,9 @@
         </div>
         <div class="content">
             <p><font size="+2" face="Arial">Rainier Symphony Friends and Families</font></p>
-            <p>We look forward to seeing you at our concerts in April and June!</p>
+            <p>Thanks for a fabulous season! We look forward to seeing you again in the fall! Check back often for more details on our upcoming season.</p>
 
-            <p><font size="+2" face="Arial">Next Concert:</font></p>
+            <!-- <p><font size="+2" face="Arial">Next Concert:</font></p>-->
             <div id="nextConcert"></div>
             <div id="nextConcertBlurb">
             </div>
