@@ -52,6 +52,7 @@
                     <td></td>
                     <td></td>
                 </tr>
+                <!--
                 <tr>
                     <td colspan="2">
                         Remember, you can support the Rainier Symphony when you shop at Amazon using this link
@@ -64,7 +65,11 @@
                         </a>
                     </td>
                 </tr>
+                    -->
             </table>
+            <hr />
+            <div id="smile">
+
             <br />
             <p style="font-size:small;">
                 Rainier Symphony is a 501(c)(3) non-profit organization.
@@ -101,6 +106,10 @@
             $("#nextConcert").load("_concert" + concertNumber + ".html");
             if (showKingFM == "1")
                 $("#kingfm").load("_kingfm.html");
+            if (showSmile == "1")
+                $("#smile").load("_smilePrime.html")
+            else
+                $("#smile").load("_smile.html")
         });
 
 </script>

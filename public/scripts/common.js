@@ -1,5 +1,6 @@
 var concertNumber;
 var showKingFM;
+var showSmile;
 
 function getConfig() {
     var today = new Date();
@@ -21,4 +22,9 @@ function getConfig() {
         }
     }
     showKingFM = xmlDoc.getElementsByTagName("radio")[0].getAttribute("show");
+    showSmile = "0";
+    var smileEnd = new Date(xmlDoc.getElementsByTagName("smile")[0].getAttribute("end"));
+    if (today <= smileEnd) {
+        showSmile = xmlDoc.getElementsByTagName("smile")[0].getAttribute("show");
+    }
 }
