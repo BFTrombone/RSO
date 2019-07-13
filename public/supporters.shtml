@@ -52,7 +52,7 @@
             <p>
                 Businesses can support Rainier Symphony in its mission to provide the finest community orchestra in the Puget Sound
                 Region.  Donations of any amount are welcome!  We offer recognition in concert programs for donations of $100 or
-                more. See the <a href="docs/RS_2018_2019_BusinessSponsorDonationForm.pdf" target="_blank">sponsorship form</a> 
+                more. See the <a href="docs/RS_2019_2020_BusinessSponsorDonationForm.pdf" target="_blank">sponsorship form</a> 
                 for details.
             </p>
             <h4>In-Kind Donations</h4>
@@ -63,31 +63,8 @@
                 to donate.
             </p>
             <h4>Amazon Smile</h4>
-            <table style="border:none;">
-                <!--<tr>
-                    <td style="width:170px;">
-                        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
-                            <img src="images/amazon_us_banner_logow_120x60.gif" style="border-style: none;" />
-                        </a>
-                    </td>
-                    <td>
-                        When you shop at Amazon.com, why not shop at <b>AmazonSmile</b>? For every purchase made using this link,
-                        Amazon will make a donation to Rainier Symphony.
-                    </td>
-                </tr>-->
-                <tr>
-                    <td colspan="2">
-                        Remember, you can support the Rainier Symphony when you shop at Amazon using this link
-                        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">smile.amazon.com</a>.
-                        When you shop AmazonSmile, Amazon donates a percentage of your purchases to the Rainier Symphony. And we thank you.
-                    </td>
-                    <td colspan="2">
-                        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
-                            <img src="images/amazon_us_banner_logow_120x60.gif" style="border-style: none;" />
-                        </a>
-                    </td>
-                </tr>
-            </table>
+            <div id="smile"></div>
+
             <br/>
             <h4>Volunteers</h4>
             <p>
@@ -128,7 +105,7 @@
                     </tr>
                 </table>
                 <p>
-                    Updated 7/31/2018.
+                    Updated 7/13/2019.
                 </p>
 
         </div>
@@ -146,4 +123,13 @@
             js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
+
+        $(document).ready(function () {
+            getConfig();
+            if (showSmile == "1")
+                $("#smile").load("_smilePrime.html")
+            else
+                $("#smile").load("_smile.html")
+        });
+
 </script>
