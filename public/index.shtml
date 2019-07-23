@@ -93,23 +93,30 @@
 <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
 <script src="scripts/common.js"></script>
 <script>
-        (function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-            fjs.parentNode.insertBefore(js, fjs);
-        } (document, 'script', 'facebook-jssdk'));
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));
 
-        $(document).ready(function () {
-            getConfig();
-            $("#nextConcert").load("_concert" + concertNumber + ".html");
-            if (showKingFM == "1")
-                $("#kingfm").load("_kingfm.html");
-            if (showSmile == "1")
-                $("#smile").load("_smilePrime.html")
-            else
-                $("#smile").load("_smile.html")
+    $(document).ready(function () {
+        getConfig();
+        $("#nextConcert").load("_concert" + concertNumber + ".html").ready(function () {
+            $("#short" + concertNumber).css("display", "inline");
+            $("#long" + concertNumber).css("display", "none");
         });
+
+        $("#short" + concertNumber).css("display", "inline");
+        $("#long" + concertNumber).css("display", "none");
+
+        if (showKingFM == "1")
+            $("#kingfm").load("_kingfm.html");
+        if (showSmile == "1")
+            $("#smile").load("_smilePrime.html")
+        else
+            $("#smile").load("_smile.html")
+    });
 
 </script>
