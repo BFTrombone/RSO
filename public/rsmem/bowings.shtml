@@ -45,7 +45,7 @@
         </div>
         <div class="content">
             <div class="title">Bowings</div>
-            <p><h4>2018-2019 Season</h4></p>
+            <p><h4>2019-2020 Season</h4></p>
             <p>
                 Bowings for all works in each concert will be posted here as they become available. Those files marked as 'large'
                 will take longer to download, particularly on slower connections. Be patient!
@@ -53,292 +53,54 @@
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'classical1');" />
-                    Classical Concert I, Excerpts of Americana
+                    Classical Concert I, The Sum of All Parts 
                 </legend>
                 <div id="classical1" style="display:none;">
                     <p><span class="title">Classical I Notes:</span></p>
-                    <p>
-                        <ul>
-                            <li>Candide, violin 2: be aware that the first page of the piece was actually scanned last and is at the end of the PDF.</li>
-                            <li>Copland: be aware that the dance numbers are not in performance order. </li>
-                            <li>Dvorak: pages are numbered but not in order e.g. page 3 appears before page 1.</li>
-                        </ul>
-                    </p>
-                    <p>
-                        Bernstein, Overture to Candide
-                        <ul>
-                            <li><a href="bowings/2018-2019/October_2018/Candide_vln1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Candide_vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Candide_vla.pdf" target="_blank">Viola</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Candide_cello.pdf" target="_blank">Cello</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Candide_bass.pdf" target="_blank">Bass</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Copland, Rodeo: Four Dance Episodes
-                        <ul>
-                            <li><a href="bowings/2018-2019/October_2018/Copland_vln1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Copland_vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Copland_vla.pdf" target="_blank">Viola</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Copland_cello.pdf" target="_blank">Cello</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Copland_bass.pdf" target="_blank">Bass</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Barber, First Essay
-                        <ul>
-                            <li><a href="bowings/2018-2019/October_2018/Barber_vln1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Barber_vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Barber_vla.pdf" target="_blank">Viola</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Barber_cello.pdf" target="_blank">Cello</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Barber_bass.pdf" target="_blank">Bass</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Dvorak, Symphony No. 9
-                        <ul>
-                            <li><a href="bowings/2018-2019/October_2018/Dvorak_vln1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Dvorak_vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Dvorak_vla.pdf" target="_blank">Viola</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Dvorak_cello.pdf" target="_blank">Cello</a></li>
-                            <li><a href="bowings/2018-2019/October_2018/Dvorak_bass.pdf" target="_blank">Bass</a></li>
-                        </ul>
-                    </p>
                 </div>
             </fieldset>
             <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'holiday');" />
-                    The Spirit of Christmas
+                    Joyous Celebration
                 </legend>
                 <div id="holiday" style="display:none;">
                     <p><span class="title">Holiday Concert Notes:</span></p>
-                    <p>
-                        <ul>
-                            <li>NOTE: Viola and Cello parts are each a single PDF containing all pieces in the concert, and can be found in the section labeled 'Combined'. As such, they are large and will take extra time to download.</li>
-                        </ul>
-                    </p>
-                    <p>
-                        A Christmas Festival
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/AChrstmasFestival_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/AChristmasFestival_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Babes In Toyland
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/BabesInToyland_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/BabesInToyland_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Christmas Fantasie
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/ChristmasFantasie_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/ChristmasFantasie_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Glorious Sounds of Christmas
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/GloriousSoundsOfChristmas_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/GloriousSoundsOfChristmas_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Have Yourself a Merry Little Christmas
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/HaveYourself_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/HaveYourself_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Nutcracker
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/Nutcracker_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/Nutcracker_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Poet and Peasant Overture
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/PoetAndPeasant_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/PoetAndPeasant_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Radetzky March
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/Radetzky_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/Radetzky_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Sleigh Ride
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/SleighRide_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/SleighRide_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        &apos;Twas the Night Before Christmas
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/TwasTheNight_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/TwasTheNight_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Winter Wonderland
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/WinterWonderland_Vn1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/WinterWonderland_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Combined
-                        <ul>
-                            <li><a href="bowings/2018-2019/December_2018/Christmas2018_Viola.pdf" target="_blank">Viola</a></li>
-                            <li><a href="bowings/2018-2019/December_2018/Christmas2018_Cello.pdf" target="_blank">Cello</a></li>
-                        </ul>
-                    </p>
-
                 </div>
             </fieldset>
             <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'classical3');" />
-                    Classical Concert II, Poems: Prophetic and Pastoral
+                    Classical Concert II, A Relentless Determination
                 </legend>
                 <div id="classical3" style="display:none;">
-                    <p><span class="title">Classical II Notes:</span>
-                       <ul>
-                           <li>The Shostakovich cello part is not in strict page order.</li>
-                           <li>The Vaughan Williams cello part is in reverse page order.</li>
-                           <li>The Les Preludes cello part is is in reverse page order (and no longer password protected).</li>
-                       </ul>
-                    </p>
-                    <p>
-                        Shostakovich, October, Op. 131
-                        <ul>
-                            <li><a href="bowings/2018-2019/February_2019/Shostakovich_Op131_vln1.pdf" target="_blank">Violin I</a> (large)</li>
-                            <li><a href="bowings/2018-2019/February_2019/Shostakovich_Op131_vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="https://www.dropbox.com/s/r95bvqhgg45nqgk/October.pdf?dl=0" target="_blank">Viola</a> (Dropbox)</li>
-                            <li><a href="bowings/2018-2019/February_2019/Shostakovich_Op131_cello.pdf" target="_blank">Cello</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Smetana, Moldau
-                        <ul>
-                            <li><a href="bowings/2018-2019/February_2019/Smetana_Moldau_vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="https://www.dropbox.com/s/kqcshjs6m999uko/Moldau.pdf?dl=0" target="_blank">Viola</a> (Dropbox)</li>
-                            <li><a href="bowings/2018-2019/February_2019/Smetana_Moldau_cello.pdf" target="_blank">Cello</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Liszt, Les Preludes
-                        <ul>
-                            <li><a href="bowings/2018-2019/February_2019/Liszt_LesPreludes_vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2018-2019/February_2019/Liszt_LesPreludes_cello.pdf" target="_blank">Cello</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Vaughan Williams, Oboe Concerto
-                        <ul>
-                            <li><a href="bowings/2018-2019/February_2019/VaughanWilliams_OboeConcerto_vln1.pdf" target="_blank">Violin I</a> (large)</li>
-                            <li><a href="bowings/2018-2019/February_2019/VaughanWilliams_OboeConcerto_vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="https://www.dropbox.com/s/97hni0lnz7wwnd7/Scan%20Jan%2020,%202019%20at%205.32%20PM.pdf?dl=0" target="_blank">Viola</a> (Dropbox)</li>
-                            <li><a href="bowings/2018-2019/February_2019/VaughanWilliams_OboeConcerto_cello.pdf" target="_blank">Cello</a></li>
-                        </ul>
-                    </p>
+                    <p><span class="title">Classical II Notes:</span></p>
                 </div>
             </fieldset>
             <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'classical4');" />
-                    Classical Concert III, Celestial Voices
+                    Classical Concert III, Enigma
                 </legend>
                 <div id="classical4" style="display:none;">
                     <p><span class="title">Classical III Notes:</span></p>
-                    <p>
-                        Debussy, Nocturnes
-                        <ul>
-                            <li><a href="bowings/2018-2019/April_2019/Nocturnes_vln1.pdf" target="_blank">Violin I</a></li>
-                            <li><a href="bowings/2018-2019/April_2019/Nocturnes_vln2.pdf" target="_blank">Violin II</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Vaughan Williams, Oboe Concerto
-                        <ul>
-                            <li><a href="bowings/2018-2019/February_2019/VaughanWilliams_OboeConcerto_vln1.pdf" target="_blank">Violin I</a> (large)</li>
-                            <li><a href="bowings/2018-2019/February_2019/VaughanWilliams_OboeConcerto_vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="https://www.dropbox.com/s/97hni0lnz7wwnd7/Scan%20Jan%2020,%202019%20at%205.32%20PM.pdf?dl=0" target="_blank">Viola</a> (Dropbox)</li>
-                            <li><a href="bowings/2018-2019/February_2019/VaughanWilliams_OboeConcerto_cello.pdf" target="_blank">Cello</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Viola, ALL
-                        <ul>
-                            <li><a href=" https://www.dropbox.com/s/ov10pmmrwze3pkp/Viola_bowings.pdf?dl=0" target="_blank">Viola (Dropbox)</a></li>
-                        </ul>
-                    </p>
                 </div>
             </fieldset>
             <br />
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'classical5');" />
-                    Pops: A Salute to Broadway
+                    Musical Mysticism
                 </legend>
                 <div id="classical5" style="display:none;">
                     <p><span class="title">Pops Notes:</span></p>
-                       <ul>
-                           <li>All viola parts but one are rotated sideways. To view and print properly, simply Rotate Left once and you should be good to go.</li>
-                       </ul>
-                    <p>
-                        Bernstein, Symphonic Dances, Westside Story
-                        <ul>
-                            <li><a href="bowings/2018-2019/June_2019/Bernstein_SymphonicDances_Vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2018-2019/June_2019/Bernstein_SymphonicDances_Vla.pdf" target="_blank">Viola</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Barber, Knoxville Summer of 1915
-                        <ul>
-                            <li><a href="bowings/2018-2019/June_2019/Barber_Knoxville_Vln2.pdf" target="_blank">Violin II</a></li>
-                            <li><a href="bowings/2018-2019/June_2019/Barber_Knoxville_Vla.pdf" target="_blank">Viola</a></li>
-                        </ul>
-                    <p>
-                        Carousel Medley
-                        <ul>
-                            <li><a href="bowings/2018-2019/June_2019/Carousel_Vla.pdf" target="_blank">Viola</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Carousel You'll Never Walk Alone
-                        <ul>
-                            <li><a href="bowings/2018-2019/June_2019/Carousel_YoullNeverWalkAlone_Vla.pdf" target="_blank">Viola</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Phantom Medley
-                        <ul>
-                            <li><a href="bowings/2018-2019/June_2019/Phantom_Medley_Vla.pdf" target="_blank">Viola</a></li>
-                        </ul>
-                    </p>
-                    <p>
-                        Phantom Think of Me
-                        <ul>
-                            <li><a href="bowings/2018-2019/June_2019/Phantom_ThinkOfMe_Vla.pdf" target="_blank">Viola</a></li>
-                        </ul>
-                    </p>
                 </div>
             </fieldset>
             <p>
-                <span style="font-size:x-small">** Updated 10/31/2018.</span>
+                <span style="font-size:x-small">** Updated 8/5/2019.</span>
             </p>
         </div>
     </div>
