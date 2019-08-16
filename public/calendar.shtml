@@ -13,7 +13,8 @@
         $(document).ready(function () {
             for (i = 1; i < 6; i++)
             {
-                $("#concert" + i).load("_concert" + i + ".html");
+                $("#concert" + i).load("Concerts/_concert" + i + ".html");
+                $("#short" + i).load("Concerts/_short" + i + ".html");
             }
         });
 
@@ -32,14 +33,19 @@
             <br />
             <hr />
             <div id="concert1"></div>
+            <div id="short1"></div>
             <hr />
             <div id="concert2"></div>
+            <div id="short2"></div>
             <hr />
             <div id="concert3"></div>
+            <div id="short3"></div>
             <hr />
             <div id="concert4"></div>
+            <div id="short4"></div>
             <hr />
             <div id="concert5"></div>
+            <div id="short5"></div>
             <hr />
             <p>
                 In the event of unforeseen circumstances, programs and artists may change without notice.
