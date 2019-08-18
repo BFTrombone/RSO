@@ -38,7 +38,7 @@
                 Each concert has been thoughtfully programmed to provide a truly 
                 enjoyable musical experience that has an organic arch from piece to piece. 
             </p>
-            <p><font size="+2" face="Arial">Next Concert:</font></p>
+            <div id="nextConcertTitle"><p><font size="+2" face="Arial">Next Concert:</font></p></div>
             <div id="nextConcert"></div>
             <div id="nextConcertBlurb"></div>
 
@@ -122,6 +122,8 @@
         $("#nextConcertBlurb").load("Concerts/_long" + concertNumber + ".html");
         $("#nextConcert").load("Concerts/_concert" + concertNumber + ".html");
 
+        If (concertNumber == "0")
+            $("#nextConcertTitle").hide();
 
         if (showKingFM == "1")
             $("#kingfm").load("_kingfm.html");
