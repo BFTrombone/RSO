@@ -38,7 +38,7 @@
                 Each concert has been thoughtfully programmed to provide a truly 
                 enjoyable musical experience that has an organic arch from piece to piece. 
             </p>
-            <div id="nextConcertTitle"><p><font size="+2" face="Arial">Next Concert:</font></p></div>
+            <div id="nextConcertTitle"><p><font size="+2" face="Arial"><span id="nct">Next Concert:</span></font></p></div>
             <div id="nextConcert"></div>
             <div id="nextConcertBlurb"></div>
 
@@ -124,6 +124,11 @@
 
         If (concertNumber == "0")
             $("#nextConcertTitle").hide();
+    
+        If (concertNumber == "1")
+            $("#nct").text("First Concert:");
+        Else
+            $("#nct").text("Next Concert:");
 
         if (showKingFM == "1")
             $("#kingfm").load("_kingfm.html");
