@@ -124,6 +124,14 @@
                 </div>
             </fieldset>
             <br />
+            <p>Note: the following seasons are kept on Google Drive. To download these, click on the link, then click on the down arrow on the upper right corner of the new page. </p>
+            <ol>
+                <li>Click on the link for the desired performance.</li>
+                <li>If you are signed into a Google account, click on the down arrow at the top right of the page.</li>
+                <li>If you are not signed into a Google account, you'll get a Whoops! message with a download button. Go ahead and click on the download button.</li>
+                <li>If you get a page that says Google Drive can't scan the file for viruses, go ahead and click Download Anyway.</li>
+                <li>Download the file and open it with your favorite ZIP file utility. </li>
+            </ol>
             <fieldset>
                 <legend>
                     <img class="showHideButton" src="Images/icon_PlusBox.png" onclick="ExpandCollapseContainer(this, 'season20172018');" />
@@ -131,12 +139,16 @@
                 </legend>
                 <div id="season20172018" style="display:none;">
                     <ul>
-                        <li><a href="http://rs.junctionit.com/_media/2017-10-21_orchestral_dances_sat.zip">Orchestral Dances 10/21/2017</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2017-10-22_orchestral_dances_sun.zip">Orchestral Dances 10/22/2017</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2017-12-16_holiday_spectacular_sat.zip">Holiday Spectacular 12/16/2017</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2017-12-17_holiday_spectacular_sun.zip">Holiday Spectacular 12/17/2017</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2018-02-24_unfamiliar_romance_sat.zip">Unfamiliar Romance 2/24/2018</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2018-02-25_unfamiliar_romance_sun.zip">Unfamiliar Romance 2/25/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1uesKclySOb84M-HoGwroSwfIWZTZr166" target="_blank">Orchestral Dances 10/21/2017</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1Y-pQ_T-J2DZS21G8tApKWygrSzfn6Pss" target="_blank">Orchestral Dances 10/22/2017</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1yJwhyccH0VtgB8PdWGDBYWNZCB5Bikbg" target="_blank">Holiday Spectacular 12/16/2017</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1U5cucInGqPw8zUyM0UR1TWems6DyN_Mi" target="_blank">Holiday Spectacular 12/17/2017</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1ebiBdmW9adchBXNKv87c2e9kAVRuQS_T" target="_blank">Unfamiliar Romance 2/24/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/10ByhPuCbDY7cLkSO1OYYx533_6qjLgdZ" target="_blank">Unfamiliar Romance 2/25/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1H4r50WiHTR6Tyr5axcQEcFsg3nxLAe1Y" target="_blank">Dark Dreams 4/7/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1DnJHr4is_ZoznBVIWK41RfllEthGRFYT" target="_blank">Dark Dreams 4/8/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1a1J3Vj8xN0yqXMOrBKJ-9o5u-IoTWdhN" target="_blank">Symphonic Journeys 6/2/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1c4_S5jjmWMlC_8j39p_4ecGNfodfZZPv" target="_blank">Symphonic Journeys 6/3/2018</a></li>
                     </ul>
                 </div>
             </fieldset>
@@ -148,20 +160,14 @@
                 </legend>
                 <div id="season20182019" style="display:none;">
                     <ul>
-                        <li><a href="recordings/2018-2019/2018-10-20_excerpts_of_americana_sat.zip">Excerpts of Americana 10/20/2018</a></li>
-                        <li><a href="recordings/2018-2019/2018-10-21_excerpts_of_americana_sun.zip">Excerpts of Americana 10/21/2018</a></li>
-                    </ul>
-                    <p>Note: the following ZIP files are kept on Google Drive. To download these, click on the link, then click on the down arrow on the upper right corner of the new page. </p>
-                    <ol>
-                        <li>Click on the link for the desired performance.</li>
-                        <li>If you are signed into a Google account, click on the down arrow at the top right of the page.</li>
-                        <li>If you are not signed into a Google account, you'll get a Whoops! message with a download button. Go ahead and click on the download button.</li>
-                        <li>If you get a page that says Google Drive can't scan the file for viruses, go ahead and click Download Anyway.</li>
-                        <li>Download the file and open it with your favorite ZIP file utility. </li>
-                    </ol>
-                    <ul>
-                        <li><a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1K7-M44mE5Q3DtA41EQjOl05fCyqOhjIo&data=02%7C01%7C%7C137b0c7410a64efbfbfe08d66540c4c4%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C636807726178706213&sdata=2caRk7RayMYBL8mUBahXG%2BaPSjeYfWG1dUCKB9JA8ys%3D&reserved=0" target="_blank">The Spirit of Christmas, 12/15/2018</a></li>
-                        <li><a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1IG9oRKNy87ibLz4cMjGI-WPnbqDhnUMj&data=02%7C01%7C%7C137b0c7410a64efbfbfe08d66540c4c4%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C636807726178706213&sdata=SHPJFXUKlFR1yQ7kWwRzXHzfPGUR%2BqRNfhxISoRVmgE%3D&reserved=0" target="_blank">The Spirit of Christmas, 12/16/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1LU0sEtOVyKtngoL7fKNJyA_XgjyDhJkB" target="_blank">Excerpts of Americana, 10/20/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1_wPUfRX4Yt6sNyF3bphB2899Pt717_bV" target="_blank">Excerpts of Americana, 10/21/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1y3avd1yKtCk05hW2E4BD7HG_5-6HYB3d" target="_blank">The Spirit of Christmas, 12/15/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1O6j5ZlEvE0KmkPkKja8v5LSvJaTw42JR" target="_blank">The Spirit of Christmas, 12/15/2018</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1dmoGzAIGfYEN0YEg5XQ8iV4CJW_hkqcs" target="_blank">Cellestial Voices, 4/6/2019</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/13XJU_3fxa4WUiIOFtE-pJ-WPFU35YM6r" target="_blank">Cellestial Voices, 4/7/2019</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1wEAeVjlcY45XGEmOI4Ln9Zf2--F-1CWi" target="_blank">A Salute to Broadway, 6/1/2019</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1wf5N-Eg0GV9Cy0X5kdtVhOqJ-W8t21DM" target="_blank">A Salute to Broadway, 6/2/2019</a></li>
                     </ul>
                 </div>
             </fieldset>
