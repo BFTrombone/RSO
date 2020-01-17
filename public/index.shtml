@@ -69,7 +69,6 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <!--
                 <tr>
                     <td colspan="2">
                         Remember, you can support the Rainier Symphony when you shop at Amazon using this link
@@ -82,8 +81,8 @@
                         </a>
                     </td>
                 </tr>
-                    -->
-            </table>
+                
+           </table>
             <hr />
             <div id="smile">
 
@@ -133,8 +132,11 @@
 
         if (showKingFM == "1")
             $("#kingfm").load("_kingfm.html");
+
         if (showSmile == "1")
             $("#smile").load("_smilePrime.html")
+        else if (showSmile == "2")
+            $("#smile").load("_smileHoliday.html")
         else
             $("#smile").load("_smile.html")
     });

@@ -64,7 +64,6 @@
             </p>
             <h4>Amazon Smile</h4>
             <div id="smile"></div>
-
             <br/>
             <h4>Volunteers</h4>
             <p>
@@ -133,6 +132,8 @@
             getConfig();
             if (showSmile == "1")
                 $("#smile").load("_smilePrime.html")
+            else if (showSmile == "2")
+                $("#smile").load("_smileHoliday.html")
             else
                 $("#smile").load("_smile.html")
         });
