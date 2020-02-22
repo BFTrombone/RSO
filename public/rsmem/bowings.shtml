@@ -140,7 +140,31 @@
                     Classical Concert III, Enigma
                 </legend>
                 <div id="classical4" style="display:none;">
-                    <p><span class="title">Classical III Notes:</span></p>
+                    <p><span class="title">Classical III Notes:</span>
+                        <ul>
+                            <li>The files for this concert are larger so will take longer to download.</li>
+                            <li>The cello part for October is not in page order but all pages are present. The first page of the part starts on page 8 of the 
+                                PDF. Page 1 of the PDF is page 15 (last page) of the part and goes in reverse order to page 9.
+                        </ul>
+                    </p>
+                    <p>
+                        Shostakovich, October Op 131
+                        <ul>
+                            <li><a href="bowings/2019-2020/April_2020/Shostakovich_Op131_vln1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2019-2020/April_2020/Shostakovich_Op131_vln2.pdf" target="_blank">Violin II</a></li>
+                            <li><a href="bowings/2019-2020/April_2020/Shostakovich_Op131_cello.pdf" target="_blank">Cello</a></li>
+                        </ul>
+                    </p>
+                    <p>
+                        Elgar, Enigma Variations
+                        <ul>
+                            <li><a href="bowings/2019-2020/April_2020/Elgar_EnigmaVariations_Violin1.pdf" target="_blank">Violin I</a></li>
+                            <li><a href="bowings/2019-2020/April_2020/Elgar_EnigmaVariations_Violin2.pdf" target="_blank">Violin II</a></li>
+                            <li><a href="bowings/2019-2020/April_2020/Elgar_EnigmaVariations_Viola.pdf" target="_blank">Viola</a></li>
+                            <li><a href="bowings/2019-2020/April_2020/Elgar_EnigmaVariations_Cello.pdf" target="_blank">Cello</a></li>
+                            <li><a href="bowings/2019-2020/April_2020/Elgar_EnigmaVariations_Bass.pdf" target="_blank">Bass</a></li>
+                        </ul>
+                    </p>
                 </div>
             </fieldset>
             <br />
