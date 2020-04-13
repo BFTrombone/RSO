@@ -18,30 +18,19 @@
             <!--#include file="_menu.html" -->
         </div>
         <div class="content">
-            <p><font size="+2" face="Arial">Rainier Symphony Friends and Families</font></p>
-            <p>
-                Welcome back to another exciting season of music making with the Rainier Symphony! Our 2019-2020 concert calendar 
-                is filled with truly splendid music, and will feature amazing musicians as soloists throughout the year! Our own 
-                principal cellist, Tom Walworth, will perform the Lalo <span style="font-style:Italic;">Cello Concerto</span>, we’ll 
-                have Dr. Erik Steighner join us on the Higdon <span style="font-style:Italic;">Concerto for Soprano Saxophone</span>, 
-                and baritone Ryan Bede will join us to sing on our holiday program. 
-            </p>
-            <p>
-                This season you can anticipate hearing music that is familiar and beloved the world-over, such as Beethoven’s 
-                <span style="font-style:Italic;">Symphony No. 5 in C Minor</span>, 
-                Smetana’s <span style="font-style:Italic;">The Moldau</span>, 
-                Elgar’s <span style="font-style:Italic;">Enigma Variations</span>, and 
-                Debussy’s <span style="font-style:Italic;">Prelude to the Afternoon of a Faun</span>. 
-                You’ll also hear some less familiar compositions that you are sure to enjoy, such as 
-                Sibelius’ <span style="font-style:Italic;">Symphony No. 7</span>, 
-                Shostakovich’s <span style="font-style:Italic;">October, Op. 131</span>, 
-                and the Higdon <span style="font-style:Italic;">Concerto for Soprano Saxophone</span>. 
-                Each concert has been thoughtfully programmed to provide a truly 
-                enjoyable musical experience that has an organic arch from piece to piece. 
-            </p>
-            <div id="nextConcertTitle"><p><font size="+2" face="Arial"><span id="nct">Next Concert:</span></font></p></div>
+            <!-- <div id="nextConcertTitle"><p><font size="+2" face="Arial"><span id="nct">Next Concert:</span></font></p></div>
             <div id="nextConcert"></div>
-            <div id="nextConcertBlurb"></div>
+            <div id="nextConcertBlurb"></div> -->
+            <p><font size="+2" face="Arial"><span id="nct">Update - April 2020</span></font></p>
+            <p>Friends:</p>
+            <p>The health and safety of our musicians and patrons is of paramount importance, and therefore Rainier Symphony announces the cancellation of the remainder of our 39th season:  concerts on April 18th and 19th, and May 30th and 31st.</p>
+            <p>If you purchased a season ticket package, there are two options for the April and May concert tickets:<p>
+            <ol>
+                <li>Discard the tickets, and the price paid becomes a donation to Rainier Symphony.  A tax receipt can be provided upon request; please email questions@rainiersymphony.org to request a receipt.</li>
+                <li>Request a refund of two fifths of the season ticket price.  To do this, mail the ticket(s) to Rainier Symphony, PO Box 58182, Seattle, WA 98138 and enclose a note with your name and address; we will mail a check for your refund within 2 weeks.</li>
+            </ol>
+            <p>Each spring we make preparations for the next season, and this year is no different in that respect.  Jeff, our Music Director, has been hard at work programming a beautiful season of music, which will be Rainier Symphony's 40th season.  Expect to receive more information over this spring and summer, and we hope you will join us in the fall.</p>
+            <p>We look forward to seeing you when we the music resumes, and we wish you and your family well.</p>
 
             <!--<ul>
     <li><a href="calendar.shtml">2018 - 2019 Events</a></li>
@@ -120,8 +109,8 @@
 
     $(document).ready(function () {
         getConfig();
-        $("#nextConcertBlurb").load("Concerts/_long" + concertNumber + ".html");
-        $("#nextConcert").load("Concerts/_concert" + concertNumber + ".html");
+        //$("#nextConcertBlurb").load("Concerts/_long" + concertNumber + ".html");
+        //$("#nextConcert").load("Concerts/_concert" + concertNumber + ".html");
 
         If (concertNumber == "0")
             $("#nextConcertTitle").hide();
