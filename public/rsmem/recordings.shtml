@@ -53,17 +53,9 @@
                 prohibited from accessing this website.
             </p>
             <p>
-                Recordings are in uncompressed .WAV format and saved inside a ZIP file. To download a concert, click
-                the ZIP file for the desired concert. Downloads may take ten minutes or more depending on your
-                connection. Once the ZIP file has finished downloading to your computer, use a ZIP file utility to
-                extract the WAV files for the concert. If you need to install a ZIP utility on your computer, you can
-                use <a href="https://ninite.com/" target="_blank">ninite.com</a>. Select PeaZip and follow the instructions to install.
+                Note: Concert recordings are kept on Google Drive. You can play them in your browser or you can download the file. To download 
+                these, click on the link, then click on the down arrow on the upper right corner of the new page. 
             </p>
-            <p>
-                NOTE: Video files are much larger than the audio files e.g. the 12/12/2014 Holiday Concert Video is
-                over 2 GB. Be aware of this when downloading these.
-            </p>
-            <p>Note: seasons 2017-2018 and on are kept on Google Drive. To download these, click on the link, then click on the down arrow on the upper right corner of the new page. </p>
             <ol>
                 <li>Click on the link for the desired performance.</li>
                 <li>If you are signed into a Google account, click on the down arrow at the top right of the page.</li>
@@ -135,15 +127,15 @@
                 </legend>
                 <div id="season20162017" style="display:none;">
                     <ul>
-                        <li><a href="http://rs.junctionit.com/_media/2016-10-22_Maiden_Voyage.zip">Maiden Voyage 10/22/2016</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2016-10-23_Maiden_Voyage.zip">Maiden Voyage 10/23/2016</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2016-12-18_Holiday_Concert.zip">Holiday Concert 12/18/2016</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2017-02-11_Courage_and_Freedom_sat.zip">Courage and Freedom 2/11/2017</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2017-02-12_Courage_and_Freedom_sun.zip">Courage and Freedom 2/12/2017</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2017-04-01_Musical_Titans_sat.zip">Musical Titans 4/1/2017</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2017-04-02_Musical_Titans_sat.zip">Musical Titans 4/2/2017</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2017-06-03_Classical_Pops_sat.zip">Classical Pops 6/3/2017</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2017-06-04_Classical_Pops_sun.zip">Classical Pops 6/4/2017</a></li>
+                        <li><a href="https://drive.google.com/open?id=11CzsTK92QulkSb8_ABEI1xRLVpyOR5qN" target="_blank">Maiden Voyage 10/22/2016</a></li>
+                        <li><a href="https://drive.google.com/open?id=1PuXszrJzUUkv-J1uQpU5JAyIoobsC3TM" target="_blank">Maiden Voyage 10/23/2016</a></li>
+                        <li><a href="https://drive.google.com/open?id=1lz_b3SmFQOm66Y54MifxsW8MM9VQUH3F" target="_blank">Holiday Concert 12/18/2016</a></li>
+                        <li><a href="https://drive.google.com/open?id=1lSEnfLLWo-qDlJC2kwdrYfF8WnKt8Gm_" target="_blank">Courage and Freedom 2/11/2017</a></li>
+                        <li><a href="https://drive.google.com/open?id=1s6IDf1mn2uGSXdM0TzyKCldJo7i-WkIE" target="_blank">Courage and Freedom 2/12/2017</a></li>
+                        <li><a href="https://drive.google.com/open?id=1knEblcr_bcEm_KEZ6fCozPw3JynD6ZHt" target="_blank">Musical Titans 4/1/2017</a></li>
+                        <li><a href="https://drive.google.com/open?id=1kjT09aPvVBNygqE7zfDZttt3yTgyTYKy" target="_blank">Musical Titans 4/2/2017</a></li>
+                        <li><a href="https://drive.google.com/open?id=1CWSYR8Mxhw3zpwK9ZOStJwcni5MMdD1E" target="_blank">Classical Pops 6/3/2017</a></li>
+                        <li><a href="https://drive.google.com/open?id=1OvJPJOHhg5yTwFpZ1docYqW9FaUERxQB" target="_blank">Classical Pops 6/4/2017</a></li>
                     </ul>
                 </div>
             </fieldset>
@@ -155,16 +147,16 @@
                 </legend>
                 <div id="season20152016" style="display:none;">
                     <ul>
-                        <li><a href="http://rs.junctionit.com/_media/2015-10-11_Heroic_Triumph.zip">Heroic Triumph 10/11/2015</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2015-11-14_Traveling_Music.zip">Traveling Music 11/14/2015</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2015-11-15_Traveling_Music.zip">Traveling Music 11/15/2015</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2015-12-11_Holiday_Favorites.zip">Holiday Favorites 12/11/2015</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2016-02-20_Innovation_and_Reflection_Saturday.zip">Innovation and Reflection 2/20/2016</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2016-02-21_Innovation_and_Reflection_Sunday.zip">Innovation and Reflection 2/20/2016</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2016-04-16_Of_Worlds_Unseen_.zip">Of Worlds Unseen 4/16/2016</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2016-04-17_Of_Worlds_Unseen.zip">Of Worlds Unseen 4/17/2016</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2016-05-21_Romanticism_Reimagined.zip">Romanticism Reimagined 5/21/2016</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2016-05-22_Romanticism_Reimagined.zip">Romanticism Reimagined 5/22/2016</a></li>
+                        <li><a href="https://drive.google.com/open?id=1Mjlt0cI1LOB6k6O6Vilbb0EN1-hfNW-W" target="_blank">Heroic Triumph 10/11/2015</a></li>
+                        <li><a href="https://drive.google.com/open?id=1w9Olj0PugL8X91GDDrO1cxY8uPav06PY" target="_blank">Traveling Music 11/14/2015</a></li>
+                        <li><a href="https://drive.google.com/open?id=1i6ECbht4Q69dv01X8rF2L38bYtJjGdxm" target="_blank">Traveling Music 11/15/2015</a></li>
+                        <li><a href="https://drive.google.com/open?id=1-Z8EUF1iJ7BmZgYWQPw5t6IyKSk__8mj" target="_blank">Holiday Favorites 12/11/2015</a></li>
+                        <li><a href="https://drive.google.com/open?id=1zj8HM24LmOucgn9vOg44WIGmc9f3Rixt" target="_blank">Innovation and Reflection 2/20/2016</a></li>
+                        <li><a href="https://drive.google.com/open?id=1ocLhdop0dofJoqXPN2lvZKWf6RzIIawE" target="_blank">Innovation and Reflection 2/20/2016</a></li>
+                        <li><a href="https://drive.google.com/open?id=1LtRX8sgYs65o1hGsWuMqAtYAYqTV_bUg" target="_blank">Of Worlds Unseen 4/16/2016</a></li>
+                        <li><a href="https://drive.google.com/open?id=1IPIEGHLT6fuMBGvpu-Bcf41UGo30A5pp" target="_blank">Of Worlds Unseen 4/17/2016</a></li>
+                        <li><a href="https://drive.google.com/open?id=1ed9rzRVEJHUOln30XOBDmPZ4ma4_yR5r" target="_blank">Romanticism Reimagined 5/21/2016</a></li>
+                        <li><a href="https://drive.google.com/open?id=1mGp18tMqtklNLqQrv5shLc7RU8NyVcxw" target="_blank">Romanticism Reimagined 5/22/2016</a></li>
                     </ul>
                 </div>
             </fieldset>
@@ -176,15 +168,15 @@
                 </legend>
                 <div id="season20142015" style="display:none;">
                     <ul>
-                        <li><a href="http://rs.junctionit.com/_media/2014-10-11_Classical_1.zip">Classical 1 10/11/2014</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2014-10-12_Classical_1.zip">Classical 1 10/12/2014</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2014-12-12_Holiday_Concert.zip">Holiday Concert 12/12/2014</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2015-02-07_Classical_2.zip">Classical 2 2/7/2015</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2015-02-08_Classical_2.zip">Classical 2 2/8/2015</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2015-04-18_Classical_3.zip">Classical 3 4/18/2015</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2015-04-19_Classical_3.zip">Classical 3 4/19/2015</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2015-05-16_Classical_4.zip">Classical 4 5/16/2015</a></li>
-                        <li><a href="http://rs.junctionit.com/_media/2015-05-17_Classical_4.zip">Classical 4 5/17/2015</a></li>
+                        <li><a href="https://drive.google.com/open?id=1Kk5H9PNmpv-3IplogfP5OvUvMAoWw6Vn" target="_blank">Classical 1 10/11/2014</a></li>
+                        <li><a href="https://drive.google.com/open?id=1eOrH4Rz7z-ejlCuQqWHg4eT5NkIyuxe-" target="_blank">Classical 1 10/12/2014</a></li>
+                        <li><a href="https://drive.google.com/open?id=1sH1mjiINNC12Fw655xdmSsDJObxqS0jK" target="_blank">Holiday Concert 12/12/2014</a></li>
+                        <li><a href="https://drive.google.com/open?id=1hRSywbfFwGbZzJF5YRyaygQ4T-uQ6p8r" target="_blank">Classical 2 2/7/2015</a></li>
+                        <li><a href="https://drive.google.com/open?id=1D9TWpvBHyAK6Aym8Hi_ReDa98Fo21dhj" target="_blank">Classical 2 2/8/2015</a></li>
+                        <li><a href="https://drive.google.com/open?id=1DfxJs_9UsDav_fhClQIiLaBBHIiTzXfk" target="_blank">Classical 3 4/18/2015</a></li>
+                        <li><a href="https://drive.google.com/open?id=12OHGmZE-9dDvtr_rVlZQtZBZGJd4J-Kb" target="_blank">Classical 3 4/19/2015</a></li>
+                        <li><a href="https://drive.google.com/open?id=1wnNSBdGND5qr3zqLKOQTxvX7z4RjlWYX" target="_blank">Classical 4 5/16/2015</a></li>
+                        <li><a href="https://drive.google.com/open?id=1Q2DzvaGPFjQ8jqRGVsqTnFr8TbwFfr_W" target="_blank">Classical 4 5/17/2015</a></li>
                     </ul>
                 </div>
             </fieldset>
