@@ -21,21 +21,23 @@
             <!-- <div id="nextConcertTitle"><p><font size="+2" face="Arial"><span id="nct">Next Concert:</span></font></p></div>
             <div id="nextConcert"></div>
             <div id="nextConcertBlurb"></div> -->
-            <p><font size="+2" face="Arial"><span id="nct">Update - April 2020</span></font></p>
-            <p>Friends:</p>
-            <p>The health and safety of our musicians and patrons is of paramount importance, and therefore Rainier Symphony announces the cancellation of the remainder of our 39th season:  concerts on April 18th and 19th, and May 30th and 31st.</p>
-            <p>If you purchased a season ticket package, there are two options for the April and May concert tickets:<p>
-            <ol>
-                <li>Discard the tickets, and the price paid becomes a donation to Rainier Symphony.  A tax receipt can be provided upon request; please email questions@rainiersymphony.org to request a receipt.</li>
-                <li>Request a refund of two fifths of the season ticket price.  To do this, mail the ticket(s) to Rainier Symphony, PO Box 58182, Seattle, WA 98138 and enclose a note with your name and address; we will mail a check for your refund within 2 weeks.</li>
-            </ol>
-            <p>Each spring we make preparations for the next season, and this year is no different in that respect.  Jeff, our Music Director, has been hard at work programming a beautiful season of music, which will be Rainier Symphony's 40th season.  Expect to receive more information over this spring and summer, and we hope you will join us in the fall.</p>
-            <p>We look forward to seeing you when we the music resumes, and we wish you and your family well.</p>
+            <p><font size="+2" face="Arial"><span id="nct">Update - October 2020</span></font></p>
+            <p>Musicians, Patrons, and Friends:</p>
+            <p>
+                With the continued uncertainties surrounding the COVID-19 pandemic, the Rainier Symphony has not yet been able to finalize 
+                and announce its 2020 – 2021 season.  Please know that we continue to monitor guidance from health officials and are exploring 
+                opportunities to safely return to performing in and serving the Tukwila community.  While these challenging circumstances may 
+                affect the timing of our return to the stage, the organization remains strong and dedicated to its mission.
+            </p>
+            <p>To our valued season ticket holders, please stay tuned for further announcements about future performance subscriptions.</p>
+            <p>To all, be well and stay safe! </p>
+            <p>Yours Truly,</p>
+            <p>The Rainier Symphony Board</p>
 
             <!--<ul>
-    <li><a href="calendar.shtml">2018 - 2019 Events</a></li>
-    <li><a href="tickets.shtml">Ticket Information</a></li>
-    </ul>-->
+            <li><a href="calendar.shtml">2018 - 2019 Events</a></li>
+            <li><a href="tickets.shtml">Ticket Information</a></li>
+            </ul>-->
             <hr />
             <font size="+2" face="Arial">Support Rainier Symphony</font>
             <br />
@@ -74,15 +76,16 @@
                 <!--
                 <tr>
                     <td colspan="2">
-    <p>
-        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
-            <img src="images/AmazonSmile_PrimeDay2020.png" style="border-style: none; width:500px;" />
-        </a>
-    </p>
-    <p>
-        You can make a difference while you shop Amazon Prime Day deals on October 13th and 14th. Simply shop at
-        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank" style="width:520px;">smile.amazon.com</a> and AmazonSmile donates to Rainier Symphony.
-    </p>                    </td>
+                    <p>
+                        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
+                            <img src="images/AmazonSmile_PrimeDay2020.png" style="border-style: none; width:500px;" />
+                        </a>
+                    </p>
+                    <p>
+                        You can make a difference while you shop Amazon Prime Day deals on October 13th and 14th. Simply shop at
+                        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank" style="width:520px;">smile.amazon.com</a> and AmazonSmile donates to Rainier Symphony.
+                    </p>                    
+                    </td>
                 </tr>
                  -->
            </table>
