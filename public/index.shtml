@@ -61,7 +61,8 @@
                     <td></td>
                 </tr>
 
-                <tr>
+                  <!--
+              <tr>
                     <td colspan="2">
                         Remember, you can support the Rainier Symphony when you shop at Amazon using this link
                         <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">smile.amazon.com</a>.
@@ -73,21 +74,20 @@
                         </a>
                     </td>
                 </tr>
-                <!--
+                 -->
                 <tr>
                     <td colspan="2">
                     <p>
                         <a href="http://smile.amazon.com/ch/91-1144970" target="_blank">
-                            <img src="images/AmazonSmile_PrimeDay2020.png" style="border-style: none; width:500px;" />
+                            <img src="images/AmazonSmile_BlackFriday2020.png" style="border-style: none; width:500px;" />
                         </a>
                     </p>
                     <p>
-                        You can make a difference while you shop Amazon Prime Day deals on October 13th and 14th. Simply shop at
-                        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank" style="width:520px;">smile.amazon.com</a> and AmazonSmile donates to Rainier Symphony.
+                        You can make an impact while you shop for Black Friday deals. Simply shop at
+                        <a href="http://smile.amazon.com/ch/91-1144970" target="_blank" style="width:520px;">smile.amazon.com</a> and AmazonSmile donates to Rainier Symphony at no cost to you.
                     </p>                    
                     </td>
                 </tr>
-                 -->
            </table>
             <hr />
             <div id="smile">
